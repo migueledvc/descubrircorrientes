@@ -1,7 +1,11 @@
 Descubrircorrientes wiki!
 
-## [Efemerides correntinas](01-Efemerides-correntinas)
+##[Historia](01-Historia)
 
-## [Efemerides argentinas](02-Efemerides-argentinas)
+##[Geografia](02-Geografia)
 
-## [Departamentos de la provincia](03-Departamentos-de-la-provincia)
+##[Politica](03-Politica)
+
+##[Cultura](04-Cultura)
+
+##[Economia](05-Economia)
