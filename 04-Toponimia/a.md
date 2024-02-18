@@ -70,7 +70,7 @@
 [Ayuí], 
 [Caá Kitá], 
 
-## Abra del Sauce
+# Abra del Sauce
 
 Category: [Abra del Sauce](http://descubrircorrientes.com.ar/2012/index.php/4299-toponimia/a-b-c/abra-del-sauce)
 
@@ -79,7 +79,7 @@ _Geog_. Lugar limpio del estero Riachuelo, sobre el límite de los departamentos
 **(1)** **Citado por “Hernán Félix Gómez. “El Municipio de Itatí” (1942). Impreso en Talleres Gráficos San Pablo, Buenos Aires.**
 
 
-## Abra Poí
+# Abra Poí
 
 Category: [Abra Poí](http://descubrircorrientes.com.ar/2012/index.php/880-toponimia/a-b-c/abra-poi)
 
@@ -100,3 +100,36 @@ Es palabra castellana.
 La palabra **po’i** es guaraní, y significa _“_fino_”_, _“_delgado_”_.
 
 En este caso señala _“_alargada_”_ y se entiende así porque la cañada, en una zona desprovista de árboles, transcurre rectamente en dirección a la Cañada Grande, en la que desemboca.
+
+
+# Abra
+
+Category: [Abra](http://descubrircorrientes.com.ar/2012/index.php/4298-toponimia/a-b-c/abra)
+
+## **\- Filología**
+
+(Solari) Voz castellana. Abertura entre dos montañas o montes y, por extensión, entre dos obstáculos<sub><strong>(1)</strong></sub>.
+
+## **(1)** Citado por “Hernán Félix Gómez. “El Municipio de Itatí” (1942). Impreso en Talleres Gráficos San Pablo, Buenos Aires.
+
+## **\- Geografía**
+
+\- Puerto, cercano al paraje Iribucuá (Dep. de Itatí), sobre el río Alto Paraná.
+
+\- Paraje en la Tercera Sección del Departamento de Itatí, entre el cauce del río Alto Paraná y el estero Riachuelo. Es una propiedad ganadera cuyo vecindario trabaja en las tareas de esta industria y con los jornales modestos que rigen en la región.
+
+Cuenta con un puerto llamado Abra, sobre el cauce del Alto Paraná. El nombre del paraje proviene del “abra” o cancha que el río presenta en el lugar, sin que isla alguna achique la amplitud del cauce.
+
+El vecindario es pobre; como son meros pobladores a los efectos de las tareas de la gran estancia ganadera, sus actividades agrícolas están reducidas al consumo familiar.
+
+Corta el paraje -de O. a E.- la ruta nacional 12, tramo Itatí-Itá Ibaté.
+
+Sirve de centro al vecindario la Escuela Nacional N<sup>ro.</sup> 418 que, administrativamente, aparece ubicada en Paraje Algarrobal. Las comunicaciones postales son lentísimas; se hacen por Itatí en base a “propios”.
+
+## **\- Historia**
+
+**Diciembre de 1847**. Una partida enviada por el gobernador provisorio Miguel Virasoro, a las órdenes del después teniente coronel José del Pilar Escobar, encuentra en Abra al coronel Manuel Saavedra, hijo del coronel Cornelio Saavedra, Presidente de la Junta de Mayo.
+
+Manuel Saavedra estaba al servicio de Corrientes y pertenecía al ejército de Madariaga derrotado en Rincón de Vences. En vez de emigrar, se dirigía a la capital a entregarse, en virtud del decreto de indulto dado por el general Justo José de Urquiza.
+
+En ejecución de las órdenes que llevaba, el oficial Escobar degolló en el lugar al ilustre coronel Saavedra. Se levantó una cruz conocida como “Curuzú Saavedra”.
