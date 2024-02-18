@@ -34,10 +34,10 @@ Está claro que la larga duración de la historia, su arraigo en la prehistoria,
 
 Teniendo en cuenta el contexto filosófico actual y los problemas de datación y, dejando alertado al lector sobre estos conceptos, pasaremos a relatar lo que fue la vivencia del hombre desde la Prehistoria a la Edad Antigua en los siguientes textos:
 
-## [Los cimientos de la prehistoria](01-Los-cimientos-de-la-prehistoria)
+## [Los cimientos de la prehistoria](01-Los-cimientos-de-la-prehistoria.md)
 
-## [El Homo sapiens](02-El-Homo-sapiens)
+## [El Homo sapiens](02-El-Homo-sapiens.md)
 
-## [La historia se está anunciando](03-La-historia-se-está-anunciando)
+## [La historia se está anunciando](03-La-historia-se-está-anunciando.md)
 
-## [Cómo llegaron los humanos a poblar el mundo](04-Cómo-llegaron-los-humanos-a-poblar-el-mundo)
+## [Cómo llegaron los humanos a poblar el mundo](04-Cómo-llegaron-los-humanos-a-poblar-el-mundo.md)

@@ -200,6 +200,6 @@ Se puede seguir este tema en los siguientes textos:
 
 ## [Los vikingos](01-Los-vikingos.md)
 
-## [En los umbrales de América](01-Historia/07-Los-anteriores-a-colon/02-En-los-umbrales-de-América)
+## [En los umbrales de América](02-En-los-umbrales-de-América.md)
 
-## [Huellas vikingas en América](01-Historia/07-Los-anteriores-a-colon/03-Huellas-vikingas-en-América)
+## [Huellas vikingas en América](03-Huellas-vikingas-en-América.md)
