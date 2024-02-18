@@ -4,9 +4,9 @@
 [Abra Poí](#abra-poí),
 [Abra](#abra), 
 [Acá Guazú](#aca-guazu),
-[Academia de Bellas Artes e Idiomas], 
-[Acangüé], 
-[Acaraguá], 
+[Academia de Bellas Artes e Idiomas](#academia-de-bellas-artes-e-idiomas), 
+[Acangüé](#acangüé), 
+[Acaraguá](#acaraguá), 
 [Acuña Cué], 
 [Adventista], 
 [Aguaceritos], 
@@ -133,3 +133,99 @@ Sirve de centro al vecindario la Escuela Nacional N<sup>ro.</sup> 418 que, admin
 Manuel Saavedra estaba al servicio de Corrientes y pertenecía al ejército de Madariaga derrotado en Rincón de Vences. En vez de emigrar, se dirigía a la capital a entregarse, en virtud del decreto de indulto dado por el general Justo José de Urquiza.
 
 En ejecución de las órdenes que llevaba, el oficial Escobar degolló en el lugar al ilustre coronel Saavedra. Se levantó una cruz conocida como “Curuzú Saavedra”.
+
+
+# Acá Guazú
+
+Category: [Acá Guazú](http://descubrircorrientes.com.ar/2012/index.php/881-toponimia/a-b-c/aca-guazu)
+
+## **Acá Guazú**. **(Akã Guasu**)
+
+**\*** Nombre de un arroyo en el Departamento Mercedes, que desagua en los Esteros del Iberá, al sudoeste de Colonia Pellegrini.
+
+La palabra [akã](http://descubrircorrientes.com.ar/2012/index.php/881-toponimia/a-b-c/index.php?option=com_content&view=category&id=599&Itemid=506) significa _“_cabeza_”_ pero, en el caso de los arroyos, hace referencia a las nacientes de los mismos.
+
+[Guasu](http://descubrircorrientes.com.ar/2012/index.php/881-toponimia/a-b-c/index.php?option=com_content&view=category&id=604&Itemid=506), es un adjetivo: significa "grande", "vasto"<sub><strong>(1)</strong></sub>.
+
+## **(1)** Citado por Natalia Krivoshein de Canese y Feliciano Acosta Alcaraz. “Ñe’**ẽ**ryru (Avañe'**ẽ** - Karaiñe’**ẽ** // Karaiñe’**ẽ** - Avañe'**ẽ**) - Diccionario (Guaraní - Español // Español - Guaraní)” (2003), integrantes del Instituto Superior de Lenguas de la Universidad Nacional de Asunción. Ed. por Ediciones y Arte S. R. L., segunda edición, Colección Ñemit**ỹ**, Asunción.
+
+Aquí significa _“_naciente grande_”_<sub><strong>(2)</strong></sub>.
+
+## **(2)** Citado por el profesor José Miguel Irigoyen. “Toponimia Guaraní de Corrientes” (1994). Editado por el Instituto de Antropología “Juan B. Ambrosetti” de la Universidad de Concepción del Uruguay, Entre Ríos.
+
+**Acá Guazú**: Arroyo de curso temporario en el Departamento Mercedes<sub><strong>(3)</strong></sub>.
+
+## **(3)** Citado por Isabel de Asuad. “Esto es Corrientes”.
+
+
+# Academia de Bellas Artes e Idiomas
+
+Category: [Academia de Bellas Artes e Idiomas](http://descubrircorrientes.com.ar/2012/index.php/2082-toponimia/a-b-c/academia-de-bellas-artes-e-idiomas)
+
+Establecimiento de enseñanza especial (cursos de varias bellas artes e idiomas), subvencionado, de la ciudad capital<sub><strong>(1)</strong></sub>.
+
+Pertenece a la institución del mismo nombre, con personería jurídica, habiendo sido fundada en Julio de 1907 por un grupo de damas, inspiradas por Josefina Contte, autora de la iniciativa.
+
+En 1913, el Gobierno de la Provincia donó el terreno en que la institución construyó su edificio y, por Acuerdo del 20/IV/1920, el Consejo Superior de Educación oficializó la enseñanza y certificados de estudios.
+
+Josefina Contte fue uno de los espíritus selectos de la femineidad correntina. Hija de un hogar virtuoso y respetable, había heredado el optimismo de su padre, antiguo capitán de la Legión Francesa en el sitio de Montevideo, durante la época de Juan Manuel de Rosas.
+
+Ampliamente generosa, se puso al frente de la sociabilidad a que perteneció, fundando y organizando la Academia de Bellas Artes e Idiomas que hoy lleva su nombre, y a la que dio casa, jerarquía y prestigio.
+
+Trátase de una institución síntesis de la cultura de la zona, en cuyos salones se realiza una tarea constante y seria.
+
+La revista _“El Positivismo”_, de Buenos Aires, del mes de Junio de 1927, y _“La Escuela”_ (Corrientes, N<sup>ro.</sup> 67) del mismo año, divulgaron su noticia biográfica cuando su deceso constituyó un rudo golpe que el destino daba a la Academia que fundara.
+
+Pero la vitalidad, que había llevado a la institución, salvó aquel momento, conservando el lugar que ocupaba en el movimiento artístico e intelectual de la Provincia.
+
+A fines de 1927, la Academia de Bellas Artes e Idiomas se dio el nombre de su fundadora y propulsora. Realizóse el acto consagratorio el 29 de Octubre, descubriéndose una placa de mármol en el frontispicio del local.
+
+El 2 de Noviembre de ese año (1927), la docencia y el alumnado de la Academia colocó una placa de bronce en el panteón que guarda los restos de la fundadora.
+
+**Nota  
+**
+
+**(1)** Material extraído del libro _"La Ciudad de Corrientes"_, de Hernán Félix Gómez, editado en 1944.
+
+
+# Acangüé
+
+Category: [Acangüé](http://descubrircorrientes.com.ar/2012/index.php/882-toponimia/a-b-c/acanguee)
+
+**Acangüé**. **(Akãngue)** - en guaraní no hace falta la diéresis sobre la **_u_**, según la escritura aprobada por el Congreso de Montevideo, en 1950**<sub>(1)</sub>**
+
+## **(1)** Citado por Natalia Krivoshein de Canese y Feliciano Acosta Alcaraz. “Ñe’**ẽ**ryru (Avañe'**ẽ** - Karaiñe’**ẽ** // Karaiñe’**ẽ** - Avañe'**ẽ**) - Diccionario (Guaraní - Español // Español - Guaraní)” (2003), integrantes del Instituto Superior de Lenguas de la Universidad Nacional de Asunción. Ed. por Ediciones y Arte S. R. L., segunda edición, Colección Ñemit**ỹ**, Asunción.
+
+**\*** Nombre de un paso, situado sobre el estero Malo, Departamento San Miguel.
+
+Significa _“_calavera_”_. Literalmente, _“_lo que fue cabeza_”_.
+
+Viene de **akã kue**, donde la nasalidad de akã sonoriza en ngue la pronunciación kue.
+
+Este nombre está indicando _“_Paso Calavera_”_.
+
+Cabe recordar que, con el nombre de _“_Calaveras_”_, existen dos arroyos en el Departamento Colón (Entre Ríos), al sur de San Salvador. Uno de ellos se llama _“_Calaveras_”_ y, el otro, _“_Calaveras Sur_”_.
+
+Se señala, asimismo, que en el Departamento Curuzú Cuatiá se tiene un arroyo con el nombre de _“_Osamentas_”_.
+
+Esto indica el papel de los esqueletos de animales en la formación de topónimos e indica, también, la sinonimia de los topónimos, dichos en idiomas distintos.
+
+Análoga respuesta del hombre en cada escenario, aunque en distintas lenguas<sub><strong>(2)</strong></sub>.
+
+## **(2)** Material extraído de la obra _“Toponimia guaraní de Corrientes”_, del profesor José Miguel Irigoyen. Editado por el Instituto de Antropología _“Juan B. Ambrosetti”_ de la Universidad de Concepción del Uruguay (Entre Ríos), en 1994.
+
+**Acangüé**: Paso en el Estero Malo, en el Departamento San Miguel<sub><strong>(3)</strong></sub>.
+
+## **(3)** Extraído del libro "_Esto es Corrientes_", de Isabel de Asuad.
+
+
+# Acaraguá
+
+Category: [Acaraguá](http://descubrircorrientes.com.ar/2012/index.php/2636-toponimia/a-b-c/acaragua)
+
+**Acaraguá**: Afluente del río Uruguay<sub><strong>(1)</strong></sub>.
+
+**(1)** Extraído del libro "_Esto es Corrientes_", de Isabel de Asuad.
+
+
+
