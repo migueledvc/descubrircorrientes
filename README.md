@@ -1,11 +1,11 @@
 Descubrircorrientes wiki!
 
-##[Historia](01-Historia)
+## [Historia](01-Historia)
 
-##[Geografia](02-Geografia)
+## [Geografia](02-Geografia)
 
-##[Politica](03-Politica)
+## [Politica](03-Politica)
 
-##[Cultura](04-Cultura)
+## [Cultura](04-Cultura)
 
-##[Economia](05-Economia)
+## [Economia](05-Economia)
