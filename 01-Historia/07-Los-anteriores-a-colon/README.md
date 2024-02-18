@@ -198,7 +198,7 @@ Concluye calificando la narración de “consumado embuste atribuido a un falso 
 
 Se puede seguir este tema en los siguientes textos:
 
-## [Los vikingos](01-Historia/07-Los-anteriores-a-colon/01-Los-vikingos)
+## [Los vikingos](01-Los-vikingos.md)
 
 ## [En los umbrales de América](01-Historia/07-Los-anteriores-a-colon/02-En-los-umbrales-de-América)
 
