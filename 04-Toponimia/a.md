@@ -110,7 +110,7 @@ Category: [Abra](http://descubrircorrientes.com.ar/2012/index.php/4298-toponimia
 
 (Solari) Voz castellana. Abertura entre dos montañas o montes y, por extensión, entre dos obstáculos<sub><strong>(1)</strong></sub>.
 
-## **(1)** Citado por “Hernán Félix Gómez. “El Municipio de Itatí” (1942). Impreso en Talleres Gráficos San Pablo, Buenos Aires.
+**(1)** Citado por “Hernán Félix Gómez. “El Municipio de Itatí” (1942). Impreso en Talleres Gráficos San Pablo, Buenos Aires.
 
 ## **\- Geografía**
 
@@ -147,15 +147,15 @@ La palabra [akã](http://descubrircorrientes.com.ar/2012/index.php/881-toponimia
 
 [Guasu](http://descubrircorrientes.com.ar/2012/index.php/881-toponimia/a-b-c/index.php?option=com_content&view=category&id=604&Itemid=506), es un adjetivo: significa "grande", "vasto"<sub><strong>(1)</strong></sub>.
 
-## **(1)** Citado por Natalia Krivoshein de Canese y Feliciano Acosta Alcaraz. “Ñe’**ẽ**ryru (Avañe'**ẽ** - Karaiñe’**ẽ** // Karaiñe’**ẽ** - Avañe'**ẽ**) - Diccionario (Guaraní - Español // Español - Guaraní)” (2003), integrantes del Instituto Superior de Lenguas de la Universidad Nacional de Asunción. Ed. por Ediciones y Arte S. R. L., segunda edición, Colección Ñemit**ỹ**, Asunción.
+**(1)** Citado por Natalia Krivoshein de Canese y Feliciano Acosta Alcaraz. “Ñe’**ẽ**ryru (Avañe'**ẽ** - Karaiñe’**ẽ** // Karaiñe’**ẽ** - Avañe'**ẽ**) - Diccionario (Guaraní - Español // Español - Guaraní)” (2003), integrantes del Instituto Superior de Lenguas de la Universidad Nacional de Asunción. Ed. por Ediciones y Arte S. R. L., segunda edición, Colección Ñemit**ỹ**, Asunción.
 
 Aquí significa _“_naciente grande_”_<sub><strong>(2)</strong></sub>.
 
-## **(2)** Citado por el profesor José Miguel Irigoyen. “Toponimia Guaraní de Corrientes” (1994). Editado por el Instituto de Antropología “Juan B. Ambrosetti” de la Universidad de Concepción del Uruguay, Entre Ríos.
+**(2)** Citado por el profesor José Miguel Irigoyen. “Toponimia Guaraní de Corrientes” (1994). Editado por el Instituto de Antropología “Juan B. Ambrosetti” de la Universidad de Concepción del Uruguay, Entre Ríos.
 
 **Acá Guazú**: Arroyo de curso temporario en el Departamento Mercedes<sub><strong>(3)</strong></sub>.
 
-## **(3)** Citado por Isabel de Asuad. “Esto es Corrientes”.
+**(3)** Citado por Isabel de Asuad. “Esto es Corrientes”.
 
 
 # Academia de Bellas Artes e Idiomas
@@ -194,7 +194,7 @@ Category: [Acangüé](http://descubrircorrientes.com.ar/2012/index.php/882-topon
 
 **Acangüé**. **(Akãngue)** - en guaraní no hace falta la diéresis sobre la **_u_**, según la escritura aprobada por el Congreso de Montevideo, en 1950**<sub>(1)</sub>**
 
-## **(1)** Citado por Natalia Krivoshein de Canese y Feliciano Acosta Alcaraz. “Ñe’**ẽ**ryru (Avañe'**ẽ** - Karaiñe’**ẽ** // Karaiñe’**ẽ** - Avañe'**ẽ**) - Diccionario (Guaraní - Español // Español - Guaraní)” (2003), integrantes del Instituto Superior de Lenguas de la Universidad Nacional de Asunción. Ed. por Ediciones y Arte S. R. L., segunda edición, Colección Ñemit**ỹ**, Asunción.
+**(1)** Citado por Natalia Krivoshein de Canese y Feliciano Acosta Alcaraz. “Ñe’**ẽ**ryru (Avañe'**ẽ** - Karaiñe’**ẽ** // Karaiñe’**ẽ** - Avañe'**ẽ**) - Diccionario (Guaraní - Español // Español - Guaraní)” (2003), integrantes del Instituto Superior de Lenguas de la Universidad Nacional de Asunción. Ed. por Ediciones y Arte S. R. L., segunda edición, Colección Ñemit**ỹ**, Asunción.
 
 **\*** Nombre de un paso, situado sobre el estero Malo, Departamento San Miguel.
 
@@ -212,11 +212,11 @@ Esto indica el papel de los esqueletos de animales en la formación de topónimo
 
 Análoga respuesta del hombre en cada escenario, aunque en distintas lenguas<sub><strong>(2)</strong></sub>.
 
-## **(2)** Material extraído de la obra _“Toponimia guaraní de Corrientes”_, del profesor José Miguel Irigoyen. Editado por el Instituto de Antropología _“Juan B. Ambrosetti”_ de la Universidad de Concepción del Uruguay (Entre Ríos), en 1994.
+**(2)** Material extraído de la obra _“Toponimia guaraní de Corrientes”_, del profesor José Miguel Irigoyen. Editado por el Instituto de Antropología _“Juan B. Ambrosetti”_ de la Universidad de Concepción del Uruguay (Entre Ríos), en 1994.
 
 **Acangüé**: Paso en el Estero Malo, en el Departamento San Miguel<sub><strong>(3)</strong></sub>.
 
-## **(3)** Extraído del libro "_Esto es Corrientes_", de Isabel de Asuad.
+**(3)** Extraído del libro "_Esto es Corrientes_", de Isabel de Asuad.
 
 
 # Acaraguá
