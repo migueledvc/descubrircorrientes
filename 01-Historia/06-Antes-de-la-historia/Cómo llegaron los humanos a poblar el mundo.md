@@ -21,9 +21,9 @@ Así, nuestros genes son vestigios de una antigua y preciosa biblioteca que cont
 
 Muy profundo, en el interior de cada uno de nosotros, una historia espera ser contada. Comienza en Africa, con los albores de la Humanidad. Supera sequías épicas y edades de hielo y alcanza su punto culminante sólo cuando llegamos a los confines de la tierra.
 
-Ahora se puede contar esta historia mediante un audaz experimento con el ADN<sub><strong>(3)</strong></sub> al que se le puede seguir el rastro al recorrido milenario de cada persona viva y revelar cómo nos conectamos todos en el árbol genealógico humano.
+Ahora se puede contar esta historia mediante un audaz experimento con el ADN[^3] al que se le puede seguir el rastro al recorrido milenario de cada persona viva y revelar cómo nos conectamos todos en el árbol genealógico humano.
 
-**(3)** El ácido desoxirribonucleico -abreviado como ADN- es un ácido nucleico que contiene las instrucciones genéticas usadas en el desarrollo y funcionamiento de todos los organismos vivos conocidos y algunos virus, y es responsable de su transmisión hereditaria. La función principal de la molécula de ADN es el almacenamiento a largo plazo de información. Muchas veces, el ADN es comparado con un plano o una receta, o un código, ya que contiene las instrucciones necesarias para construir otros componentes de las células, como las proteínas y las moléculas de ARN. Los segmentos de ADN que llevan esta información genética son llamados genes, pero las otras secuencias de ADN tienen propósitos estructurales o toman parte en la regulación del uso de esta información genética.
+[^3]: El ácido desoxirribonucleico -abreviado como ADN- es un ácido nucleico que contiene las instrucciones genéticas usadas en el desarrollo y funcionamiento de todos los organismos vivos conocidos y algunos virus, y es responsable de su transmisión hereditaria. La función principal de la molécula de ADN es el almacenamiento a largo plazo de información. Muchas veces, el ADN es comparado con un plano o una receta, o un código, ya que contiene las instrucciones necesarias para construir otros componentes de las células, como las proteínas y las moléculas de ARN. Los segmentos de ADN que llevan esta información genética son llamados genes, pero las otras secuencias de ADN tienen propósitos estructurales o toman parte en la regulación del uso de esta información genética.
 
 Durante siglos se movilizaron multitudes por todo el globo en busca de una vida mejor. El genetista Wells y su equipo han desarrollado la hipótesis de un solo origen, ancestros humanos que se originaron en Africa y que finalmente, se dirigieron hacia el resto del mundo.
 
@@ -39,9 +39,9 @@ Africa Meridional y Oriental originalmente fueron pobladas por personas afines a
 
 También hay pueblos en el Este de Africa que actualmente hablan diferentes idiomas pero que sin embargo comparten las características arcaicas de la lengua san, con un repertorio distintivo de sonidos clic y pop. Estos son los únicos idiomas en el mundo que utilizan estos sonidos en el habla.
 
-Estos seres humanos emigraron de Africa y todos ellos llevan una característica genética en el cromosoma Y conocido como M-168 // “haplogrupo CT (Y-ADN)”<sub><strong>(4)</strong></sub>.
+Estos seres humanos emigraron de Africa y todos ellos llevan una característica genética en el cromosoma Y conocido como M-168 // “haplogrupo CT (Y-ADN)”[^4].
 
-**(4)** Spencer Wells. “El Viaje del Hombre (una Odisea Genética)”, p. 55. Ed. Random House.
+[^4]: Spencer Wells. “El Viaje del Hombre (una Odisea Genética)”, p. 55. Ed. Random House.
 
 ## **\- La diáspora africana**
 
@@ -65,9 +65,9 @@ Pero dentro de Africa el aislamiento geográfico habría sido ayudado principalm
 
 ## **\- La idea es saber cuál ha sido el viaje de la Humanidad a lo largo de la tierra**
 
-La genealogía permite seguir el rastro en cuatro o cinco generaciones hasta un tatarabuelo quizás. Podemos retroceder unos cien años. Pero esto, que estudia ahora la genética, se trata de los antepasados más remotos<sub><strong>(6)</strong></sub>.
+La genealogía permite seguir el rastro en cuatro o cinco generaciones hasta un tatarabuelo quizás. Podemos retroceder unos cien años. Pero esto, que estudia ahora la genética, se trata de los antepasados más remotos[^5].
 
-**(6)** Una persona, si la llevamos unos 200 años atrás, tiene dos padres, cuatro abuelos, ocho bisabuelos; unas diez generaciones encontramos 1.024 antepasados.
+[^5]: Una persona, si la llevamos unos 200 años atrás, tiene dos padres, cuatro abuelos, ocho bisabuelos; unas diez generaciones encontramos 1.024 antepasados.
 
 Con suerte sabemos dónde vivieron nuestros antepasados más próximos, pero la genealogía permite ahora seguir el rastro en miles de generaciones atrás.
 
@@ -367,9 +367,9 @@ Hace 11.000 años la Edad de Hielo ya estaba retrocediendo. La masa terrestre qu
 
 “Leyendo los genes de personas que viven entre Etiopía y la Tierra del Fuego descubrimos la ruta de los caminantes que subieron hasta Siberia, cruzaron el Estrecho de Behring y terminaron en las Américas. ¡Vaya viaje! Les tomó 20.000 años. Ahora se sabe que los nativos americanos descienden de los de Asia Central, por lo menos en su mayoría”, explica Wells.
 
-"Los que poblaron Sudamérica tuvieron que darse el viaje más largo. “Esa gente increíble caminó, literalmente, desde África hasta la Patagonia. Estamos en proceso de expandir el muestreo en la región andina, para entender quiénes fueron los pobladores originales de los altos Andes, por qué tomaron esa decisión, de dónde venían y cuál es el impacto del Imperio Inca en esta bandeja genética. Sabemos que los incas movilizaban grandes cantidades de gente en los Andes y queremos saber qué efecto genético tuvo”<sub><strong>(7)</strong></sub>, señala Wells.
+"Los que poblaron Sudamérica tuvieron que darse el viaje más largo. “Esa gente increíble caminó, literalmente, desde África hasta la Patagonia. Estamos en proceso de expandir el muestreo en la región andina, para entender quiénes fueron los pobladores originales de los altos Andes, por qué tomaron esa decisión, de dónde venían y cuál es el impacto del Imperio Inca en esta bandeja genética. Sabemos que los incas movilizaban grandes cantidades de gente en los Andes y queremos saber qué efecto genético tuvo”[^6], señala Wells.
 
-**(7)** El muestreo lo están haciendo centros regionales en Ecuador, Perú y Bolivia, bajo la dirección de Fabricio Santos, de la Universidad de Minas Gerais, de Brasil. Existe la posibilidad del muestreo de momias para hacerles análisis de ADN. Si bien esto podría ser políticamente complicado hacerlo, los científicos esperan trabajar con arqueólogos que estudian esas momias, “porque sería fantástico tener esa información para compararla con la de la gente viva”, según señala Wells.
+[^6] El muestreo lo están haciendo centros regionales en Ecuador, Perú y Bolivia, bajo la dirección de Fabricio Santos, de la Universidad de Minas Gerais, de Brasil. Existe la posibilidad del muestreo de momias para hacerles análisis de ADN. Si bien esto podría ser políticamente complicado hacerlo, los científicos esperan trabajar con arqueólogos que estudian esas momias, “porque sería fantástico tener esa información para compararla con la de la gente viva”, según señala Wells.
 
 No obstante, Wells advierte que la genealogía genética es una carrera contra el tiempo porque en algún momento, el récord de estas antiquísimas migraciones se habrá desvanecido. "Esparcirnos por el mundo nos tomó docenas de miles de años; hoy viajamos de Johannesburgo a Nueva York en cuestión de horas. Nos casamos entre culturas y países. Y en el proceso, arruinamos las claves genéticas de nuestro pasado", advierte.
 
