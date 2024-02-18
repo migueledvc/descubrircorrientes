@@ -32,4 +32,12 @@ Esta herramienta, observación-experimentación, fue muy útil para la ciencia e
 
 Está claro que la larga duración de la historia, su arraigo en la prehistoria, la desigual importancia -cualitativa y cuantitativa- de la documentación, escrita en el correr de tres milenios de su existencia, no pueden otorgar -a cada momento- la misma precisión. Incluso, en la Antigüedad, la preocupación por la medición del tiempo no se desarrolló, sino progresivamente; la diversidad de situaciones, así como las dificultades que encuentra el historiador, aparecen con la evolución de la forma de fechar, sin dejar de lado las probadas inexactitudes de lecturas de datación por radiocarbono que llevó a grandes equívocos.
 
-Teniendo en cuenta el contexto filosófico actual y los problemas de datación y, dejando alertado al lector sobre estos conceptos, pasaremos a relatar lo que fue la vivencia del hombre desde la Prehistoria a la Edad Antigua.
+Teniendo en cuenta el contexto filosófico actual y los problemas de datación y, dejando alertado al lector sobre estos conceptos, pasaremos a relatar lo que fue la vivencia del hombre desde la Prehistoria a la Edad Antigua en los siguientes textos:
+
+## [Los cimientos de la prehistoria](01-Los-cimientos-de-la-prehistoria)
+
+## [El Homo sapiens](02-El-Homo-sapiens)
+
+## [La historia se está anunciando](03-La-historia-se-está-anunciando)
+
+## [Cómo llegaron los humanos a poblar el mundo](04-Cómo-llegaron-los-humanos-a-poblar-el-mundo)

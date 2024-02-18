@@ -195,3 +195,11 @@ La claridad de planteo y dominio del tema valen para reproducirla parcialmente. 
 “Como en la narración china sobre el pretendido descubrimiento de América en el siglo V, se habla de la existencia de caballos en el país que se supone ser México, fácil le es al sinólogo de Pekín probar que en la América no existían caballos antes de la época colombina”.
 
 Concluye calificando la narración de “consumado embuste atribuido a un falso sacerdote de Buda”, admitiendo que “puede ser cuando más una narración referente a otro país, adornado por la imaginación de algún poeta”. Hasta aquí Mitre y su sensato cuarto a espadas sobre el problema.
+
+Se puede seguir este tema en los siguientes textos:
+
+## [Los vikingos](01-Los-vikingos)
+
+## [En los umbrales de América](02-En-los-umbrales-de-América)
+
+## [Huellas vikingas en América](03-Huellas-vikingas-en-América)
