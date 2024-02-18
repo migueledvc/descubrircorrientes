@@ -7,7 +7,7 @@ Welcome to the descubrircorrientes wiki!
 ## Efemerides correntinas
 <a name="Efemerides_correntinas"></a>
 
-## [Efemerides correntinas](Efemerides)
+## [Efemerides correntinas](01-Efemerides-correntinas)
 
 # Efemérides nacionales
 
