@@ -74,9 +74,9 @@
 
 Category: [Abra del Sauce](http://descubrircorrientes.com.ar/2012/index.php/4299-toponimia/a-b-c/abra-del-sauce)
 
-_Geog_. Lugar limpio del estero Riachuelo, sobre el límite de los departamentos de Itatí y San Luis del Palmar**<sub>(1)</sub>**.
+_Geog_. Lugar limpio del estero Riachuelo, sobre el límite de los departamentos de Itatí y San Luis del Palmar**[^1]**.
 
-**(1)** **Citado por “Hernán Félix Gómez. “El Municipio de Itatí” (1942). Impreso en Talleres Gráficos San Pablo, Buenos Aires.**
+**[^1]:** **Citado por “Hernán Félix Gómez. “El Municipio de Itatí” (1942). Impreso en Talleres Gráficos San Pablo, Buenos Aires.**
 
 
 # Abra Poí
