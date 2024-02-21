@@ -6,8 +6,14 @@ Descubrircorrientes wiki!
 
 ## [Geografia](03-Geografia)
 
-## [Politica](04-Politica)
+## [Cultura](04-Cultura)
 
-## [Cultura](05-Cultura)
+## [Guarani](05-Guarani)
 
-## [Economia](06-Economia)
+## [Deportes](06-Deportes)
+
+## [Cronologias](07-Cronologias)
+
+## [Biografias](08-Biografias)
+
+## [Toponimia](09-Toponimia)
