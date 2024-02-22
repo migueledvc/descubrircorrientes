@@ -1,3 +1,5 @@
+Bienvenido a historia desde el origen hasta 1814!
+
 [00-Descripcion-teologica-judeo-cristiana-de-la-historia](00-Descripcion-teologica-judeo-cristiana-de-la-historia); 
 [01-Antes-de-la-historia](01-Antes-de-la-historia); 
 [02-Los-anteriores-a-colon](02-Los-anteriores-a-colon); 
