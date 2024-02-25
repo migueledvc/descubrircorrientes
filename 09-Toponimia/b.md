@@ -11,14 +11,14 @@
 [Barranqueras](#Barranqueras); 
 [Barranqueritas](#Barranqueritas); 
 [Basualdo](#Basualdo); 
-[Batalla Cue](#Batalla Cue); 
+[Batalla Cue](#Batalla-Cue); 
 [Batel](#Batel); 
 [Batelito](#Batelito); 
 [Bay](#Bay); 
 [Bella Vista](#Bella-Vista); 
 [Bellaco](#Bellaco); 
 [Bermejo](#Bermejo); 
-[Berón de Astrada](#Berón de Astrada); 
+[Berón de Astrada](#Berón-de-Astrada); 
 [Biguá](#Biguá); 
 [Blanco](#Blanco); 
 [Blanco Cue](#Blanco-Cue); 
