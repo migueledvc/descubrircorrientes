@@ -9,141 +9,8 @@
 [Diez de Septiembre](#Diez-de-Septiembre); 
 [Dispensario](#Dispensario); 
 [Doce de Octubre (calle)](#Doce-de-Octubre-(calle)); 
-[El Yucuerí](#El-Yucuerí); 
-[Ensenada Grande](#Ensenada-Grande); 
-[Ensenadita](#Ensenadita); 
-[Entre Ríos (Provincia de)](#Entre-Ríos-(Provincia-de)); 
-[Escuela de San Francisco](#Escuela-de-San-Francisco); 
-[Escuela de Santa Teresita](#Escuela-de-Santa-Teresita); 
-[Escuela Del Centenario](#Escuela-Del-Centenario); 
-[Escuela Industrial Bernardino Rivadavia](#Escuela-Industrial-Bernardino-Rivadavia); 
-[Escuela Normal de Maestras Dr Juan Pujol](#Escuela-Normal-de-Maestras-Dr-Juan-Pujol); 
-[Escuela Normal de Maestros José Manuel Estrada](#Escuela-Normal-de-Maestros-José-Manuel-Estrada); 
-[Escuela para Marineros de la Prefectura General Marítima](#Escuela-para-Marineros-de-la-Prefectura-General-Marítima); 
-[Escuela Profesional Juana Manso de Noronha](#Escuela-Profesional-Juana-Manso-de-Noronha); 
-[Escuela Salesiana de Artes y Oficios](#Escuela-Salesiana-de-Artes-y-Oficios); 
-[Escuela Sarmiento](#Escuela-Sarmiento); 
-[Escuela Superior y Talleres de San Vicente de Paul](#Escuela-Superior-y-Talleres-de-San-Vicente-de-Paul); 
-[Escuela-Taller de la Tercera Orden de San Francisco](#Escuela-Taller-de-la-Tercera-Orden-de-San-Francisco); 
-[España](#España); 
-[Esperanza (calle)](#Esperanza-(calle)); 
-[Estación del F C Nordeste Argentino](#Estación-del-F-C-Nordeste-Argentino); 
-[Estación Saladas](#Estación-Saladas); 
-[Estación San Lorenzo](#Estación-San-Lorenzo); 
-[Estados Unidos](#Estados-Unidos); 
-[Estanque](#Estanque); 
-[Estatua del general Carlos M de Alvear](#Estatua-del-general-Carlos-M-de-Alvear); 
-[Estepa](#Estepa); 
-[Etapa postjesuítica](#Etapa-postjesuítica); 
-[Fábrica](#Fábrica); 
-[Fábrica Grande](#Fábrica-Grande); 
-[Francia](#Francia); 
-[Galarza cue](#Galarza-cue); 
-[Gallegos cue](#Gallegos-cue); 
-[Gallo Salpucay o Gallo Sapucay](#Gallo-Salpucay-o-Gallo-Sapucay); 
-[Galván (Paso)](#Galván-(Paso)); 
-[Garabatá](#Garabatá); 
-[Garapé](#Garapé); 
-[Garayá](#Garayá); 
-[Garupá Grande](#Garupá-Grande); 
-[Guabiyú](#Guabiyú); 
-[Guahó (Arroyo)](#Guahó-(Arroyo)); 
-[Guapurú](#Guapurú); 
-[Guará](#Guará); 
-[Guaviraví](#Guaviraví); 
-[Guaviyú](#Guaviyú); 
-[Guayacán](#Guayacán); 
-[Guaycurú](#Guaycurú); 
-[Guayquiraró](#Guayquiraró); 
-[Guayú](#Guayú); 
-[Guazú](#Guazú); 
-[Guazú Corá](#Guazú-Corá); 
-[Hipódromo del Jockey Club](#Hipódromo-del-Jockey-Club); 
-[Hospital de Hombres Dr José Ramón Vidal](#Hospital-de-Hombres-Dr-José-Ramón-Vidal); 
-[Hospital de Mujeres Juana Francisca Cabral](#Hospital-de-Mujeres-Juana-Francisca-Cabral); 
-[Hospital San Juan de Dios](#Hospital-San-Juan-de-Dios); 
-[Ibabiyú](#Ibabiyú); 
-[Ibahay](#Ibahay); 
-[Ibapoí](#Ibapoí); 
-[Iberá](#Iberá); 
-[Iberá Puita](#Iberá-Puita); 
-[Ibí Poí](#Ibí-Poí); 
-[Ibí Pytá](#Ibí-Pytá); 
-[Ibicuy](#Ibicuy); 
-[Ibirá Ocay](#Ibirá-Ocay); 
-[Iglesia Catedral](#Iglesia-Catedral); 
-[Imágenes de Entidades comerciales y financieras](#Imágenes-de-Entidades-comerciales-y-financieras); 
-[Imágenes de la Avenida Costanera](#Imágenes-de-la-Avenida-Costanera); 
-[Imágenes de la calle 25 de Mayo](#Imágenes-de-la-calle-25-de-Mayo); 
-[Imágenes de la calle Fray José de la Quintana](#Imágenes-de-la-calle-Fray-José-de-la-Quintana); 
-[Imágenes de la calle Junín](#Imágenes-de-la-calle-Junín); 
-[Imágenes de la calle La Rioja](#Imágenes-de-la-calle-La-Rioja); 
-[Imágenes de la calle Mendoza](#Imágenes-de-la-calle-Mendoza); 
-[Imágenes de la calle San Luis](#Imágenes-de-la-calle-San-Luis); 
-[Imágenes de la calle Tucumán](#Imágenes-de-la-calle-Tucumán); 
-[Imágenes de la Casa de Gobierno](#Imágenes-de-la-Casa-de-Gobierno); 
-[Imágenes de la Iglesia Catedral](#Imágenes-de-la-Iglesia-Catedral); 
-[Imágenes de la Iglesia de La Merced](#Imágenes-de-la-Iglesia-de-La-Merced); 
-[Imágenes de la Legislatura](#Imágenes-de-la-Legislatura); 
-[Imágenes de la Plaza 25 de Mayo](#Imágenes-de-la-Plaza-25-de-Mayo); 
-[Imágenes de la plaza De la Cruz](#Imágenes-de-la-plaza-De-la-Cruz); 
-[Imágenes de la Punta San Sebastián](#Imágenes-de-la-Punta-San-Sebastián); 
-[Imágenes de Santa Ana](#Imágenes-de-Santa-Ana); 
-[Imágenes del Cabildo y Jefatura de Policía](#Imágenes-del-Cabildo-y-Jefatura-de-Policía); 
-[Imágenes del Colegio Nacional](#Imágenes-del-Colegio-Nacional); 
-[Imágenes del Concejo Deliberante y Municipalidad de Corrientes](#Imágenes-del-Concejo-Deliberante-y-Municipalidad-de-Corrientes); 
-[Imágenes del Convento Franciscano](#Imágenes-del-Convento-Franciscano); 
-[Imágenes del Museo de Bellas Artes](#Imágenes-del-Museo-de-Bellas-Artes); 
-[Imágenes del Puerto de la Ciudad de Corrientes](#Imágenes-del-Puerto-de-la-Ciudad-de-Corrientes); 
-[Imágenes del Teatro Vera](#Imágenes-del-Teatro-Vera); 
-[Imágenes del Transporte Público Urbano](#Imágenes-del-Transporte-Público-Urbano); 
-[Independencia](#Independencia); 
-[Industrial](#Industrial); 
-[Ingá](#Ingá); 
-[Ingacito](#Ingacito); 
-[Ingenio Primer Correntino](#Ingenio-Primer-Correntino); 
-[Instituto de Estudios Secundarios Incorporado](#Instituto-de-Estudios-Secundarios-Incorporado); 
-[Instituto Mitre](#Instituto-Mitre); 
-[Ipacarapá](#Ipacarapá); 
-[Ipachí](#Ipachí); 
-[Iporá](#Iporá); 
-[Ipucú](#Ipucú); 
-[Ipucú Guazú](#Ipucú-Guazú); 
-[Iribú cua](#Iribú-cua); 
-[Isla Baí](#Isla-Baí); 
-[Isla Carayá](#Isla-Carayá); 
-[Isla Ibaté](#Isla-Ibaté); 
-[Isla Iriú](#Isla-Iriú); 
-[Isla los Pindós](#Isla-los-Pindós); 
-[Isla Pucú](#Isla-Pucú); 
-[Isla Yaguareté](#Isla-Yaguareté); 
-[Islas del Medio](#Islas-del-Medio); 
-[Isoquí](#Isoquí); 
-[Itá](#Itá); 
-[Ita caá](#Ita-caá); 
-[Itá caabó](#Itá-caabó); 
-[Itá candá o Itá canuá](#Itá-candá-o-Itá-canuá); 
-[Itá corá](#Itá-corá); 
-[Itá Cua](#Itá-Cua); 
-[Itá Curuzú](#Itá-Curuzú); 
-[Itá Ibaté](#Itá-Ibaté); 
-[Itá Paso](#Itá-Paso); 
-[Itá Puá](#Itá-Puá); 
-[Itá Pucú](#Itá-Pucú); 
-[Itá Pynta](#Itá-Pynta); 
-[Itacumbú](#Itacumbú); 
-[Itacuruví](#Itacuruví); 
-[Itaembé](#Itaembé); 
-[Itaembé Chico](#Itaembé-Chico); 
-[Itaembé Miní](#Itaembé-Miní); 
-[Italia](#Italia); 
-[Itatí](#Itatí); 
-[Itú](#Itú); 
-[Ituzaingó](#Ituzaingó); 
-[Izoró](#Izoró); 
-[Izoró Viejo](#Izoró-Viejo); 
-
-
+ 
+  
 ## De la Columna
 
 Category: [De la Columna](http://descubrircorrientes.com.ar/2012/index.php/2194-toponimia/d-e-f-g-h-i/de-la-columna)
@@ -238,141 +105,159 @@ Ha sido organizada en la propiedad de Félix Delfino. Es un centro agrícola, qu
 ## **(1)** Citado por el doctor Hernán Félix Gómez. “El Municipio de Saladas” (1942). Ed. Corrientes, Corrientes. Impreso en los Talleres Gráficos “San Pablo”, Buenos Aires.
 
 
-[Desaguadero (cañada, arroyo, paraje)](#Desaguadero-(cañada-arroyo-paraje)); 
-[Dieciséis de Abril (plaza)](#Dieciséis-de-Abril-(plaza)); 
-[Diez de Septiembre](#Diez-de-Septiembre); 
-[Dispensario](#Dispensario); 
-[Doce de Octubre (calle)](#Doce-de-Octubre-(calle)); 
-[El Yucuerí](#El-Yucuerí); 
-[Ensenada Grande](#Ensenada-Grande); 
-[Ensenadita](#Ensenadita); 
-[Entre Ríos (Provincia de)](#Entre-Ríos-(Provincia-de)); 
-[Escuela de San Francisco](#Escuela-de-San-Francisco); 
-[Escuela de Santa Teresita](#Escuela-de-Santa-Teresita); 
-[Escuela Del Centenario](#Escuela-Del-Centenario); 
-[Escuela Industrial Bernardino Rivadavia](#Escuela-Industrial-Bernardino-Rivadavia); 
-[Escuela Normal de Maestras Dr Juan Pujol](#Escuela-Normal-de-Maestras-Dr-Juan-Pujol); 
-[Escuela Normal de Maestros José Manuel Estrada](#Escuela-Normal-de-Maestros-José-Manuel-Estrada); 
-[Escuela para Marineros de la Prefectura General Marítima](#Escuela-para-Marineros-de-la-Prefectura-General-Marítima); 
-[Escuela Profesional Juana Manso de Noronha](#Escuela-Profesional-Juana-Manso-de-Noronha); 
-[Escuela Salesiana de Artes y Oficios](#Escuela-Salesiana-de-Artes-y-Oficios); 
-[Escuela Sarmiento](#Escuela-Sarmiento); 
-[Escuela Superior y Talleres de San Vicente de Paul](#Escuela-Superior-y-Talleres-de-San-Vicente-de-Paul); 
-[Escuela-Taller de la Tercera Orden de San Francisco](#Escuela-Taller-de-la-Tercera-Orden-de-San-Francisco); 
-[España](#España); 
-[Esperanza (calle)](#Esperanza-(calle)); 
-[Estación del F C Nordeste Argentino](#Estación-del-F-C-Nordeste-Argentino); 
-[Estación Saladas](#Estación-Saladas); 
-[Estación San Lorenzo](#Estación-San-Lorenzo); 
-[Estados Unidos](#Estados-Unidos); 
-[Estanque](#Estanque); 
-[Estatua del general Carlos M de Alvear](#Estatua-del-general-Carlos-M-de-Alvear); 
-[Estepa](#Estepa); 
-[Etapa postjesuítica](#Etapa-postjesuítica); 
-[Fábrica](#Fábrica); 
-[Fábrica Grande](#Fábrica-Grande); 
-[Francia](#Francia); 
-[Galarza cue](#Galarza-cue); 
-[Gallegos cue](#Gallegos-cue); 
-[Gallo Salpucay o Gallo Sapucay](#Gallo-Salpucay-o-Gallo-Sapucay); 
-[Galván (Paso)](#Galván-(Paso)); 
-[Garabatá](#Garabatá); 
-[Garapé](#Garapé); 
-[Garayá](#Garayá); 
-[Garupá Grande](#Garupá-Grande); 
-[Guabiyú](#Guabiyú); 
-[Guahó (Arroyo)](#Guahó-(Arroyo)); 
-[Guapurú](#Guapurú); 
-[Guará](#Guará); 
-[Guaviraví](#Guaviraví); 
-[Guaviyú](#Guaviyú); 
-[Guayacán](#Guayacán); 
-[Guaycurú](#Guaycurú); 
-[Guayquiraró](#Guayquiraró); 
-[Guayú](#Guayú); 
-[Guazú](#Guazú); 
-[Guazú Corá](#Guazú-Corá); 
-[Hipódromo del Jockey Club](#Hipódromo-del-Jockey-Club); 
-[Hospital de Hombres Dr José Ramón Vidal](#Hospital-de-Hombres-Dr-José-Ramón-Vidal); 
-[Hospital de Mujeres Juana Francisca Cabral](#Hospital-de-Mujeres-Juana-Francisca-Cabral); 
-[Hospital San Juan de Dios](#Hospital-San-Juan-de-Dios); 
-[Ibabiyú](#Ibabiyú); 
-[Ibahay](#Ibahay); 
-[Ibapoí](#Ibapoí); 
-[Iberá](#Iberá); 
-[Iberá Puita](#Iberá-Puita); 
-[Ibí Poí](#Ibí-Poí); 
-[Ibí Pytá](#Ibí-Pytá); 
-[Ibicuy](#Ibicuy); 
-[Ibirá Ocay](#Ibirá-Ocay); 
-[Iglesia Catedral](#Iglesia-Catedral); 
-[Imágenes de Entidades comerciales y financieras](#Imágenes-de-Entidades-comerciales-y-financieras); 
-[Imágenes de la Avenida Costanera](#Imágenes-de-la-Avenida-Costanera); 
-[Imágenes de la calle 25 de Mayo](#Imágenes-de-la-calle-25-de-Mayo); 
-[Imágenes de la calle Fray José de la Quintana](#Imágenes-de-la-calle-Fray-José-de-la-Quintana); 
-[Imágenes de la calle Junín](#Imágenes-de-la-calle-Junín); 
-[Imágenes de la calle La Rioja](#Imágenes-de-la-calle-La-Rioja); 
-[Imágenes de la calle Mendoza](#Imágenes-de-la-calle-Mendoza); 
-[Imágenes de la calle San Luis](#Imágenes-de-la-calle-San-Luis); 
-[Imágenes de la calle Tucumán](#Imágenes-de-la-calle-Tucumán); 
-[Imágenes de la Casa de Gobierno](#Imágenes-de-la-Casa-de-Gobierno); 
-[Imágenes de la Iglesia Catedral](#Imágenes-de-la-Iglesia-Catedral); 
-[Imágenes de la Iglesia de La Merced](#Imágenes-de-la-Iglesia-de-La-Merced); 
-[Imágenes de la Legislatura](#Imágenes-de-la-Legislatura); 
-[Imágenes de la Plaza 25 de Mayo](#Imágenes-de-la-Plaza-25-de-Mayo); 
-[Imágenes de la plaza De la Cruz](#Imágenes-de-la-plaza-De-la-Cruz); 
-[Imágenes de la Punta San Sebastián](#Imágenes-de-la-Punta-San-Sebastián); 
-[Imágenes de Santa Ana](#Imágenes-de-Santa-Ana); 
-[Imágenes del Cabildo y Jefatura de Policía](#Imágenes-del-Cabildo-y-Jefatura-de-Policía); 
-[Imágenes del Colegio Nacional](#Imágenes-del-Colegio-Nacional); 
-[Imágenes del Concejo Deliberante y Municipalidad de Corrientes](#Imágenes-del-Concejo-Deliberante-y-Municipalidad-de-Corrientes); 
-[Imágenes del Convento Franciscano](#Imágenes-del-Convento-Franciscano); 
-[Imágenes del Museo de Bellas Artes](#Imágenes-del-Museo-de-Bellas-Artes); 
-[Imágenes del Puerto de la Ciudad de Corrientes](#Imágenes-del-Puerto-de-la-Ciudad-de-Corrientes); 
-[Imágenes del Teatro Vera](#Imágenes-del-Teatro-Vera); 
-[Imágenes del Transporte Público Urbano](#Imágenes-del-Transporte-Público-Urbano); 
-[Independencia](#Independencia); 
-[Industrial](#Industrial); 
-[Ingá](#Ingá); 
-[Ingacito](#Ingacito); 
-[Ingenio Primer Correntino](#Ingenio-Primer-Correntino); 
-[Instituto de Estudios Secundarios Incorporado](#Instituto-de-Estudios-Secundarios-Incorporado); 
-[Instituto Mitre](#Instituto-Mitre); 
-[Ipacarapá](#Ipacarapá); 
-[Ipachí](#Ipachí); 
-[Iporá](#Iporá); 
-[Ipucú](#Ipucú); 
-[Ipucú Guazú](#Ipucú-Guazú); 
-[Iribú cua](#Iribú-cua); 
-[Isla Baí](#Isla-Baí); 
-[Isla Carayá](#Isla-Carayá); 
-[Isla Ibaté](#Isla-Ibaté); 
-[Isla Iriú](#Isla-Iriú); 
-[Isla los Pindós](#Isla-los-Pindós); 
-[Isla Pucú](#Isla-Pucú); 
-[Isla Yaguareté](#Isla-Yaguareté); 
-[Islas del Medio](#Islas-del-Medio); 
-[Isoquí](#Isoquí); 
-[Itá](#Itá); 
-[Ita caá](#Ita-caá); 
-[Itá caabó](#Itá-caabó); 
-[Itá candá o Itá canuá](#Itá-candá-o-Itá-canuá); 
-[Itá corá](#Itá-corá); 
-[Itá Cua](#Itá-Cua); 
-[Itá Curuzú](#Itá-Curuzú); 
-[Itá Ibaté](#Itá-Ibaté); 
-[Itá Paso](#Itá-Paso); 
-[Itá Puá](#Itá-Puá); 
-[Itá Pucú](#Itá-Pucú); 
-[Itá Pynta](#Itá-Pynta); 
-[Itacumbú](#Itacumbú); 
-[Itacuruví](#Itacuruví); 
-[Itaembé](#Itaembé); 
-[Itaembé Chico](#Itaembé-Chico); 
-[Itaembé Miní](#Itaembé-Miní); 
-[Italia](#Italia); 
-[Itatí](#Itatí); 
-[Itú](#Itú); 
-[Ituzaingó](#Ituzaingó); 
-[Izoró](#Izoró); 
-[Izoró Viejo](#Izoró-Viejo);
+## Desaguadero (cañada, arroyo, paraje)
+
+Category: [Desaguadero (cañada, arroyo, paraje)](http://descubrircorrientes.com.ar/2012/index.php/4243-toponimia/d-e-f-g-h-i/desaguadero-canada-arroyo-paraje)
+
+**\*** Geog.
+
+El arroyo Desaguadero nace en la cañada de este nombre, en el departamento de San Cosme, tomando la dirección norte-sur, para desembocar en el Riachuelo. Su cauce divide los departamentos de San Cosme y Capital.
+
+Sus márgenes son barrancosas, cubiertas de vegetación, abundando los helechos y culantrillos. Es zona de lomas arenosas donde radicó un vecindario agrícola que toma su nombre.
+
+Para su cruce, en el camino que sale de la capital, se ha construido un puente que es cubierto por las aguas en los períodos de lluvia<sub><strong>(1)</strong></sub>.
+
+## **(1)** Citado por el doctor Hernán Félix Gómez. “El Municipio de Paso de la Patria” (1942). Ed. Corrientes, Corrientes. Impreso en los Talleres Gráficos “San Pablo”, Buenos Aires.
+
+En otro apartado de la misma obra, el doctor Hernán Gómez escribe:
+
+**\*** Geog.
+
+\- Cañada que sirve de límite a las secciones 2<sup>da.</sup> y 3<sup>ra.</sup> del departamento de San Cosme. Es cruzada por el F. C. Económico.
+
+\- Arroyo que limita en parte los departamentos de Capital y San Cosme. Nace en la cañada Desaguadero y corre de N. a S., llevando sus aguas al Riachuelo. Es entonces el vertedero de la cañada. Su cauce es cruzado por el camino provincial de Corrientes al municipio de San Luis del Palmar, por un puente de madera dura.
+
+## **\- Paraje Desaguadero**
+
+Paraje y vecindario en la 3<sup>ra.</sup> sección del departamento de San Cosme. Los servicios postales se atienden desde la oficina de Laguna Brava. Tiene Escuela Nacional N<sup>ro.</sup> 208.
+
+**\*** Geog.
+
+Pertenece a la 3<sup>ra.</sup> sección del departamento de San Cosme, a su extremo S.E. Está rodeado por la cañada Desaguadero al norte; el arroyo del mismo nombre al este y el río Riachuelo al sur.
+
+Es cruzado por el camino provincial que desde la Ciudad de Corrientes va al municipio de San Luis del Palmar y que cruza el arroyo Desaguadero y el Riachuelo por dos buenos puentes.
+
+Dista 22 kilómetros de Corrientes y 6 de San Luis del Palmar. El terreno es llano, de pastos buenos y tierra fértil. El vecindario es agrícola, cultivándose algodón, maíz, caña de azúcar, mandioca y batata.
+
+Además del camino general expresado, en el paraje nacen de éste, otros dos: uno lleva al municipio de Santa Ana y otro al vecindario y paraje denominado Pelón.
+
+La población es toda nativa; como en la mayoría de la zona, los vecinos emigran al Chaco periódicamente para trabajar en el levantamiento de la cosecha.
+
+Por esta razón la población infantil trabaja con exceso en las tareas agrícolas locales con perjuicio de la asistencia escolar. Sirve de centro al vecindario la Escuela Nacional N<sup>ro.</sup> 208<sub><strong>(2)</strong></sub>.
+
+## **(2)** Citado por el doctor Hernán Félix Gómez. “El Municipio de Paso de la Patria” (1942). Ed. Corrientes, Corrientes. Impreso en los Talleres Gráficos “San Pablo”, Buenos Aires.
+
+
+## Dieciséis de Abril (plaza)
+
+Category: [Dieciséis de Abril (plaza)](http://descubrircorrientes.com.ar/2012/index.php/4279-toponimia/d-e-f-g-h-i/dieciseis-de-abril-plaza)
+
+El 16 de Abril de 1866, el Ejército de la Triple Alianza, formado de argentinos, brasileños y uruguayos, inició las operaciones de invasión al territorio de la República del Paraguay.
+
+En ese día, las primeras unidades de aquellas fuerzas, reorganizadas y repuestas de las grandes marchas que debieron hacer desde Yatay, Uruguayana y Concordia (sobre el río Uruguay), se embarcaron en Punta Mitre, del municipio de Paso de la Patria, iniciando el cruce del río Alto Paraná.
+
+Ocuparon primero las islas Santa Ana y Cabritas (hoy desaparecidas) y, luego, tomando la boca del río Paraguay penetraron en su cauce para desembarcar en la margen oriental de dicho río y realizar la invasión del país enemigo.
+
+Varios historiadores han descripto estas operaciones militares y el heroísmo de esa empresa, que llevó a la derrota de Francisco Solano López y a la pacificación de los pueblos del Río de la Plata.
+
+La plaza que lleva la denominación de “16 de Abril” fue ocupada -en 1866- por el Ejército Aliado que comandaba el presidente arrgentino, general Bartolomé Mitre, al iniciar la referida campaña de liberación del país vecino<sub><strong>(1)</strong></sub>.
+
+## **(1)** Citado por el doctor Hernán Félix Gómez. “El Municipio de Paso de la Patria” (1942). Ed. Corrientes, Corrientes. Impreso en los Talleres Gráficos “San Pablo”, Buenos Aires.
+
+
+## Diez de Septiembre
+
+Category: [Diez de Septiembre](http://descubrircorrientes.com.ar/2012/index.php/2195-toponimia/d-e-f-g-h-i/diez-de-septiembre)
+
+La manzana de tierras que se destinó a esta plaza era llamada _La Limita_ y fue desde 1871, un cementerio público, habilitado a raíz de la epidemia de la fiebre amarilla<sub><strong>(1)</strong></sub>.
+
+Tomaba el nombre del arroyo La Limita que corta su inmediación para llevar sus aguas al río Paraná, aun cuando algunos han sostenido que el arroyo tomó el nombre del cementerio y éste de un árbol viejo de esa variedad de citrus, tan exquisita por la concentración y perfume de su jugo.
+
+La denominación _Diez de Septiembre_ fue homenaje al centenario de la Provincialización de Corrientes, decretado por el Director de las Provincias Unidas Gervasio Antonio de Posadas, el 10 de Septiembre de 1814.
+
+Es la fecha del Decreto de ese alto funcionario, que si bien _“provincializó la ciudad de Corrientes y pueblos de su jurisdicción”_, reconociéndolos como una _provincia del Estado nacional_, en el hecho no significó otra cosa que homologar actos cumplidos ya.
+
+Corrientes, bajo la presión de su pueblo levantado en armas, había declarado su independencia de Buenos Aires, el 10 de Marzo de 1814, expulsando al teniente de gobernador, que ésta tenía nombrado, y el 20 de Abril su Cabildo hizo ese solemne pronunciamiento _“bajo el sistema federativo”_.
+
+El Decreto del 10 de Septiembre no significó sino un consentimiento de la política directorial. Pero su recuerdo concreta el culto popular por la personalidad estadual de la Provincia dentro de nuestro régimen federal de organización. Corrientes, pronunciada como Provincia en Abril de 1814, reúne su primer Congreso y hace las bases de su personalidad institucional.
+
+Bajo este régimen de autonomía se vivió hasta Febrero de 1820, en que el general Francisco Ramírez, después de triunfar sobre las fuerzas del general José Gervasio Artigas y de Corrientes, organizó la llamada _República Entrerriana_ con los territorios de Entre Ríos, Corrientes y Misiones.
+
+El 12 de Octubre de 1821, Corrientes reacciona; desaloja y se libera de López Jordán, sucesor de Ramírez, y restablece su personalidad cstadual.
+
+El 12 de Octubre es la fiesta de su autonomía, que ejercitó de inmediato en los Tratados del Cuadrilátero (1822) y luego en los de la Liga del Litoral (1830/1831).
+
+**Nota  
+**
+
+**(1)** Material extraído del libro _"La Ciudad de Corrientes"_, de Hernán Félix Gómez, editado en 1944.
+
+
+## Dispensario
+
+Category: [Dispensario](http://descubrircorrientes.com.ar/2012/index.php/2698-toponimia/d-e-f-g-h-i/dispensario)
+
+Dispensario -Avda. Vera y Pje. Mantilla- c. 1977
+
+En las primeras décadas del siglo XX se edificó -en sistema de construcción prefabricada de madera-, una serie de oficinas nacionales habilitadas como dispensario y laboratorio de análisis bioquímicos.
+
+![img 20151113 150953](http://descubrircorrientes.com.ar/2012/index.php/2698-toponimia/d-e-f-g-h-i/images/fotos_de_geografia/img_20151113_150953.jpg)
+
+Estas tenían su justificación en la llegada de embarcaciones y los controles exigidos a los tripulantes o pasajeros que llegaban, pero tambén era utilizado para los habitantes de la ciudad.
+
+Se demolió cuando las oficinas se trasladaron a un sector de la Facultad de Medicina<sub><strong>(1)</strong></sub>.
+
+**(1)** Extraído del libro "Ciudad de Corrientes. Imágenes urbanas de su pasado y su presente". Editado por el Centro de Estudios Históricos Arquitectónicos y Urbanos del Nordeste argentino. Universidad Nacional del Nordeste.
+
+Plazoleta Stella Maris -Avda. Vera y Pje. Mantilla- c. 2006
+
+En la década del ’80, y ya demolido el edificio del dispensario, el predio pasó a la Comuna capitalina, concretándose como espacio público.
+
+![img 20151113 151008](http://descubrircorrientes.com.ar/2012/index.php/2698-toponimia/d-e-f-g-h-i/images/fotos_de_geografia/img_20151113_151008.jpg)
+
+La plazoleta cuenta con pérgola y juegos infantiles, en un entorno de viviendas del siglo XIX de escala homogénea, sólo quebrada por el edificio en altura que se mantiene inconcluso sobre el límite del conjunto<sub><strong>(2)</strong></sub>.
+
+**(2)** Extraído del libro "Ciudad de Corrientes. Imágenes urbanas de su pasado y su presente". Editado por el Centro de Estudios Históricos Arquitectónicos y Urbanos del Nordeste argentino. Universidad Nacional del Nordeste.
+
+
+## Doce de Octubre (calle)
+
+Category: [Doce de Octubre (calle)](http://descubrircorrientes.com.ar/2012/index.php/4280-toponimia/d-e-f-g-h-i/doce-de-octubre-calle)
+
+El 12 de Octubre de 1492, Cristóbal Colón -al frente de tres carabelas, que pusiera a sus órdenes la Reina Isabel, “la Católica”, de Castilla- descubrió el continente americano, iniciándose la magnífica epopeya de su conquista y de la creación de un nuevo mundo, por su genio, su cultura y el sentido libre de las nacientes que en él advinieron<sub><strong>(1)</strong></sub>.
+
+## **(1) Citado por “Hernán Félix Gómez. “El Municipio de Itatí” (1942). Impreso en Talleres Gráficos San Pablo, Buenos Aires.**
+
+Tal el acontecimiento que todos los países americanos y España conmemoran en este día y que es una expresión de orígenes comunes.
+
+Pero, a su vez, el 12 de Octubre es una fiesta cívica provincial, establecida por ley: conmemora el movimiento popular del 12 de Octubre de 1821, en que el pueblo de Corrientes se levanta en armas y depone a las autoridades que representaban a la República Entrerriana, fundada en Septiembre de 1820 por el general Francisco Ramírez.
+
+Es el día en que la provincia reconquistó su soberanía, en que sus jefes militares y dirigentes civiles deponen al Comandante de Armas Evaristo Carriegos, lo constituyen en prisión, y convocan a una asamblea popular que resuelve en definitiva sobre la proclamación de la libertad provincial y, dentro de la independencia, “la unión y fraternidad con las demás provincias de Sudamérica”.
+
+Inmenso júbilo respondió a la actitud de la milicia armada. El pueblo en la plaza pública adhirió al pronunciamiento y afirmó -en resoluciones terminantes- el propósito; resolvió la reunión inmediata de un Congreso de Diputados para elegir el Gobierno que había de regir la provincia, así como una Junta General de Comandantes Militares que entendiese en la defensa del territorio; invitó y exhortó a los partidos de campaña a que adhirieran al pronunciamiento y dispusieran las tropas para repeler agresiones; y eligió por aclamación para que ejerciera el Gobierno interino a Nicolás Ramón de Atienza.
+
+Los pronunciamientos de la campaña no se hicieron esperar; cinco días después, se reunían en la Capital los Comandantes Militares, de Caá Catí, León Esquivel; de las Ensenadas, Manuel Corrales; de Palmar y Galarza, Manuel Antonio Aquino; del Empedrado, Juan Manuel Sánchez; de Itatí, Juan Antonio Guery; y de Guácaras, Francisco Antonio Gómez; todos ellos traían el fervoroso entusiasmo de sus vecinos y, reunidos en Junta parcial, resolvían postergar la realización del Congreso y de la Junta General de Comandantes, para atender en forma práctica a las medidas de defensa, congregando la milicia popular en el Cuartel General que se declaraba instalado en San Roque.
+
+Al frente del pueblo armado citado para San Roque, ponía esta reunión parcial de Comandantes, a León Esquivel, jefe prestigioso, encargado de la defensa de la frontera de Misiones sobre todo.
+
+La defensa de la ciudad capital o, el mando inmediato de su guarnición, se encargaba a Juan José Fernández Blanco, completándose estas medidas con el indulto general de los desertores, algo como la amnistía de las pasadas luchas civiles.
+
+## **\- Celebración del Día de la Raza**
+
+Día de la Raza se celebra el 12 de Octubre en la mayor parte de Hispanoamérica, en España y en Estados Unidos entre otros países. Fue creado a partir del siglo XX, inicialmente de forma espontánea y no oficial, para conmemorar una nueva identidad cultural, producto del encuentro y fusión entre los pueblos indígenas de América y los colonizadores españoles, además de la valorización del patrimonio cultural hispanoamericano.
+
+Aunque el nombre "Día de la Raza" es el más popular en la actualidad, el nombre oficial suele variar de un país a otro. En España es el "Día de la Fiesta Nacional" o "Día de la Hispanidad", además de la fiesta religiosa de la Virgen del Pilar. En Estados Unidos es "Columbus Day" o "Día de Cristóbal Colón"; el "Día del Encuentro de Dos Mundos", en Chile y Perú; y "Día del Respeto a la Diversidad Cultural", en Argentina.
+
+## **\- El Día de la Diversidad Cultural**
+
+El 12 de Octubre pasó a llamarse _Día del Respeto a la Diversidad Cultural_ en 2010, luego de que la ex presidenta Cristina Fernández de Kirchner firmara el decreto 1584.
+
+"Se modifica la denominación del feriado del día 12 de Octubre, dotando a dicha fecha de un significado acorde al valor que asigna nuestra Constitución Nacional y diversos tratados y declaraciones de derechos humanos a la diversidad étnica y cultural de todos los pueblos", se lee en los considerandos.
+
+Hasta entonces, el 12 de Octubre se conmemoraba el Día de la Raza. En todos los países hispanoamericanos se recuerda esa fecha, llegada al continente americano de la expedición liderada por Cristóbal Colón. En España, hoy se festeja la Fiesta Nacional o Día Nacional.
+
+El debate sobre la celebración del 12 de Octubre había comenzado hacía ya varios años. En 2007, el INADI presentó un proyecto de decreto que cuestionaba el concepto de "raza" y apuntaba a que ese feriado tuviera el sentido que tiene ahora, esto es, "una jornada de valorización de las identidades étnicas y culturales y de reflexión histórica". También instruía a que ese cambio se incorporara en los calendarios escolares y en las currículas de capacitación a docentes.
+
+La Convención Internacional sobre la Eliminación de Todas las Formas de Discriminación Racial establece que "toda idea o doctrina de superioridad basada en la diferenciación racial es científicamente falsa, moralmente condenable y socialmente injusta".
+
+El uso del término "raza" fue descartado por razones científicas, políticas y culturales .El concepto cuajó en el siglo XVIII, a partir de la necesidad de ordenar la información sobre la naturaleza, de tener una taxonomía para poder estudiarla. La discriminación racial residía en asociar determinadas características físicas a determinadas características culturales.
