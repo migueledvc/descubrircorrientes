@@ -51,11 +51,11 @@ Bienvenido a historia desde 1814 hasta 1870!
 [comienza-la-guerra-preparacion-militar](113-comienza-la-guerra-preparacion-militar); 
 [corrientes bajo fuego](114-corrientes-bajo-fuego); 
 [marcos paz vicepresidente a cargo del p e n](115-marcos-paz-vicepresidente-a-cargo-del-p-e-n); 
-[el avance paraguayo en corrientes dilatacion](116-el avance-paraguayo-en-corrientes-dilatacion); 
+[el avance paraguayo en corrientes dilatacion](116-el-avance-paraguayo-en-corrientes-dilatacion); 
 [117](117); 
 [politica correntina en tiempos de guerra](118-politica-correntina-en-tiempos-de-guerra); 
 [bao de sangre en el paraguay ao 1866](119-bao-de-sangre-en-el-paraguay-ao-1866); 
 [tropiezo aliado](120-tropiezo-aliado); 
-[el frente paraguayo en el primer semestre de](121-el frente-paraguayo-en-el-primer-semestre-de); 
+[el frente paraguayo en el primer semestre de](121-el-frente-paraguayo-en-el-primer-semestre-de); 
 [la resistencia paraguaya continua](122-la-resistencia-paraguaya-continua); 
 [mitre despeja el camino la caida de humaita](123-mitre-despeja-el-camino-la-caida-de-humaita). 
