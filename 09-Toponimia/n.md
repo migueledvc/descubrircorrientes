@@ -1,10 +1,10 @@
 [Napindá](#Napindá); 
 [Naranjito (Paso)](#Naranjito (Paso)); 
-[Niño Tupá](#Niño Tupá); 
-[Nueve de Enero](#Nueve de Enero); 
-[Nueve de Julio](#Nueve de Julio); 
+[Niño Tupá](#Niño-Tupá); 
+[Nueve de Enero](#Nueve-de-Enero); 
+[Nueve de Julio](#Nueve-de-Julio); 
 [Ñaembé](#Ñaembé); 
-[Ñangami o Ñanganui](#Ñangami o Ñanganui); 
+[Ñangami o Ñanganui](#Ñangami-o-Ñanganui); 
 [Ñañgamí](#Ñañgamí); 
 [Ñarandá](#Ñarandá); 
 [Ñarí](#Ñarí); 
