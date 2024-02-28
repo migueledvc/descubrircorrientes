@@ -2,20 +2,20 @@ Descubrircorrientes wiki!
 
 # [Efemerides:](01-Efemerides)
 
-## [01 - Efemerides correntinas.](01-Efemerides-correntinas)
+## [01 - Efemerides correntinas.](01-Efemerides/01-Efemerides-correntinas)
 
-## [02 - Efemerides argentinas.](02-Efemerides-argentinas)
+## [02 - Efemerides argentinas.](01-Efemerides/02-Efemerides-argentinas)
 
-## [03 - Departamentos de la provincia.](03-Departamentos-de-la-provincia)
+## [03 - Departamentos de la provincia.](01-Efemerides/03-Departamentos-de-la-provincia)
 
 
 # [Historia:](02-Historia)
 
-## [01 - Desde el origen hasta 1814.](01-Desde-el-origen-hasta-1814)
+## [01 - Desde el origen hasta 1814.](02-Historia/01-Desde-el-origen-hasta-1814)
 
-## [02 - Desde 1814 hasta 1870.](02-Desde-1814-hasta-1870)
+## [02 - Desde 1814 hasta 1870.](02-Historia/02-Desde-1814-hasta-1870)
 
-## [03 - Desde 1870 hasta la actualidad.](03-Desde-1870-hasta-la-actualidad)
+## [03 - Desde 1870 hasta la actualidad.](02-Historia/03-Desde-1870-hasta-la-actualidad)
 
 
 # [Geografia:](03-Geografia)
