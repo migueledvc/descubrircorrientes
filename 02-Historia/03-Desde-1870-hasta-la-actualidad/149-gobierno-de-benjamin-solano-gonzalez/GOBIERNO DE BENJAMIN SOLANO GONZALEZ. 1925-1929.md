@@ -1,0 +1,47 @@
+## GOBIERNO DE BENJAMIN SOLANO GONZALEZ
+
+Category: [GOBIERNO DE BENJAMIN SOLANO GONZALEZ](http://descubrircorrientes.com.ar/2012/index.php/3894-corrientes-en-la-familia-argentina-1870-a-la-actualidad/de-juan-ramon-vidal-a-benjamin-solano-gonzalez-1909-1929/gobierno-de-benjamin-solano-gonzalez)
+
+## **\- Comienza la gestión del doctor González**
+
+El año 1926 será de gran trascendencia en lo político en todo el país. De la alineación de las fuerzas y de los resultados electorales se podrá vislumbrar el futuro de la renovación presidencial que deberá operarse en 1928.
+
+La lógica expectativa se centraba en saber si las fracciones radicales irían juntas al comicio para asegurar la continuidad en el Gobierno Nacional y si las fuerzas que les eran adversas -con base en el conservadorismo- lograrían conformar una gran fuerza nacional capaz de enfrentarlas con éxito. En Corrientes, los radicales habían hecho la experiencia con motivo de la renovación legislativa pero el resultado no les había favorecido.
+
+El recién iniciado Gobierno del doctor Benjamín Solano González había surgido de la coalición de los partidos liberal y autonomista, en base a un acuerdo o pacto político de gobernabilidad cuyas disposiciones preveían la rotación de ciertos cargos entre las personas nominadas por una u otra de las agrupaciones. Así, si el gobernador saliente era de filiación liberal, el que lo sucedía -en el supuesto de ganarse las elecciones- debía ser del otro partido aliado, es decir del autonomismo; pasaba lo mismo con los ministerios, subsecretarías y así sucesimente con las intendencias municipales, comisarías departamentales, etc.
+
+Procediendo de esta manera, en el nuevo período gubernativo recién iniciado, el ministro de Gobierno debía ser autonomista y para cubrirlo fue designado el doctor Felipe C. Solari, destacado dirigente de aquella agrupación que había cesado como diputado nacional. La cartera de Hacienda, que correspondía a los liberales, era adjudicada a Federico Fernández Serrano, que terminaba su gestión como intendente municipal de la Ciudad de Goya y al que se consideraba ligado políticamente con la fracción del ex ministro de Gobierno, Manuel Bermúdez.
+
+En la Subsecretaría de Hacienda se designó a Alfredo López Torres, liberal; y en la de Gobierno, al doctor Diego Meana Colodrero, autonomista. Como Jefe de Policía, al doctor Alberto Díaz Colodrero, liberal; y como presidente del Consejo Superior de Educación al doctor Justo Alvarez Hayes, también liberal, que terminaba su mandato como diputado nacional; y, como vocal del mismo organismo, al doctor Félix María Gómez, dirigente autonomista.
+
+Se nominaba, asimismo, como vocal del Superior Tribunal de Justicia al doctor Pedro Díaz Colodrero, autonomista que finalizaba su labor como vicegobernador; como secretario de la Gobernación a Eduardo Lujambio Torrent y, como segundo secretario, al joven Sebastián Meana Colodrero, ambos autonomistas.
+
+## **\- Características de la gestión**
+
+Desde el primer día se advirtieron en la gestión del doctor González dos características significativas, las que -pese a su correcta intencionalidad- no dejarían de traerle problemas en forma inmediata: la primera era el ritmo vertiginoso -para esa época- con que encaraba las acciones para llevar a cabo su programa gubernativo: adopción de medidas de saneamiento administrativo, visitas diarias a reparticiones, entidades públicas, instituciones sociales y deportivas, visita de cárceles y asilos, adopción de impactantes medidas para paliar la situación de los convictos, creación de obraje y colonias penales abiertas, ejercicio de la facultad de conmutación de penas, arreglos de edificios públicos con la novedosa actitud de solicitar la donación de madera para ayudar a cumplir esa tarea, lo que fue respondido favorablemente por muchos propietarios; reparaciones de la Casa de Gobierno y del edificio de la Legislatura, habilitación de nueva sede para el Poder Judicial; visitas a distintos departamentos del Interior provincial y toma de conocimiento inmediato de sus necesidades; urgimiento a reparticiones nacionales para que se cumplimentaran los planes de obras públicas aprobados para la provincia, salubridad provincial, etc.
+
+Muchos de estos temas eran materia que el doctor González ya había venido encarando desde la Ciudad de Buenos Aires antes de ser elegido gobernador, en su calidad de representante del Gobierno Provincial y de varias de sus municipalidades, y aún de entidades representativas de la industria madre, la ganadería.
+
+El andar cansino de quienes estaban acostumbrados a otras formas de gobernar -menos acelerada- no podía dejar de conmoverse ante la nueva modalidad, más acorde a la dinámica que vivía la gran capital del sur, que a los de la vieja ciudad de las Siete Corrientes.
+
+Una de esas primeras medidas de gobierno fue la de poner en vigencia el Presupuesto del año anterior, haciendo uso de una disposicón constitucional dictada en previsión de casos excepcionales de feurza mayor, pero no para amparar la desidia sistemática de los legisladores, dejando por ello clausurado el período extraordinario de sesiones al no haberse aprobado por la Legislatura el Presupuesto del año que corría, retirando, además, los otros asuntos que estaban a consdieración legislativa<sub><strong>(1)</strong></sub>.
+
+## **(1)** Diario “La Prensa” (Buenos Aires), ediciones del 3 y 6 de Enero de 1926. // Citado por Ricardo J. G. Harvey. “Historia Política Contemporánea de Corrientes (del doctor Benjamín S. González al doctor Pedro Numa Soto. 1925-1935)” (1999). Ed. Dunken, Buenos Aires.
+
+Por otro lado, reclamaba de los receptores de rentas el perseverar y estricto cumplimiento del decreto relativo a la exacta percepción de la renta fiscal; se fijaba un plazo a los empleados públicos para que procedieran a regularizar sus obligaciones con el Fisco o con las municipalidades, bajo apercibimiento de disponerse su cesantía si así no lo hicieran; se requería urgentemente a todos los jefes de Oficina de la Administración el envío de los datos necesarios para preparar los proyectos de presupuesto y cálculo de recursos del año 1927, a efectos de elevarlos a la Legislatura en las primeras sesiones ordinarias; se enviaban circulares recomendando la abstención del personal administrativo de toda participación en propaganda política, al mismo tiempo que se solicitaba la nómina de empleados que, habiendo sido designados para las Oficinas, no prestaban servicios en ellas, con indicación de la fecha desde cuándo ocurría eso y el tiempo de la ausencia como así el nombre de los agentes que asistían habitualmente con retardo y el motivo de los permisos acordados.
+
+Todo ello en miras a la racionalización de la burocracia para una más eficiente prestación de los servicios administrativos.
+
+Muchas de estas medidas tuvieron que afectar situaciones creadas y la crítica personal y periodística no se hizo esperar. “La Prensa”<sub><strong>(2)</strong></sub>, en un comentario editorial, se refirió a los nuevos mandatarios del Gobierno de Corrientes expresando que contraían sus primeros actos a sustituir funcionarios y empleados de menor jerarquía que militaban en el partido liberal con afiliados del autonomismo, señalando que este error era una consecuencia caprichosa del régimen de partidos turnantes establecidos en esta provincia.
+
+## **(2)** Diario “La Prensa” (Buenos Aires), edición del 7 de Enero de 1926. // Citado por Ricardo J. G. Harvey. “Historia Política Contemporánea de Corrientes (del doctor Benjamín S. González al doctor Pedro Numa Soto. 1925-1935)” (1999). Ed. Dunken, Buenos Aires.
+
+Y el diario “El Día” transcribe íntegramente ese artículo que criticaba lo que se había dado en llamar “la reorganización del personal administrativo” al que consideraba como una insólita actitud del Poder Ejecutivo.
+
+También editorializaba “La Prensa” acerca de las medidas de prescindencia en las campañas políticas por parte de los empleados públicos, lo que consideraba acertado, pero que no lo interpretaban así los servidores públicos pues entendían que les coartaba el ejercicio de un legítimo derecho<sub><strong>(3)</strong></sub>.
+
+## **(3)** Diario “La Prensa” (Buenos Aires), ediciones del 20 y 21 de Enero de 1926. // Citado por Ricardo J. G. Harvey. “Historia Política Contemporánea de Corrientes (del doctor Benjamín S. González al doctor Pedro Numa Soto. 1925-1935)” (1999). Ed. Dunken, Buenos Aires.
+
+La segunda de las características de su Gobierno es la que fuera expresada en su mensaje al asumir la Primera Magistratura de “establecer una línea separativa entre el Gobierno y los comités políticos”, para poder ocuparse así adecuadamente de “la Administración y la alta política de los intereses públicos” y, muy especialmente cuando en forma enfática señalaba que “los comités políticos no pueden ni deben querer despojar al Gobierno de sus responsabilidades inherentes ni trabar la acción administrativa con imposiciones depresivas”<sub><strong>(4)</strong></sub>.
+
+## **(4)** Diario “El Liberal” (Corrientes), edición del 24 de Diciembre de 1925. // Citado por Ricardo J. G. Harvey. “Historia Política Contemporánea de Corrientes (del doctor Benjamín S. González al doctor Pedro Numa Soto. 1925-1935)” (1999). Ed. Dunken, Buenos Aires.
