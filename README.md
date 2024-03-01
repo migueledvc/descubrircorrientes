@@ -1,124 +1,124 @@
 Descubrircorrientes wiki!
 
-## [Efemerides:](01-Efemerides)
+## [Efemerides:](Contenido/01-Efemerides)
 
-[01 - Efemerides correntinas.](/01-Efemerides/01-Efemerides-correntinas)
+[01 - Efemerides correntinas.](Contenido//01-Efemerides/01-Efemerides-correntinas)
 
-[02 - Efemerides argentinas.](/01-Efemerides/02-Efemerides-argentinas)
+[02 - Efemerides argentinas.](Contenido//01-Efemerides/02-Efemerides-argentinas)
 
-[03 - Departamentos de la provincia.](/01-Efemerides/03-Departamentos-de-la-provincia)
-
-
-## [Historia:](02-Historia)
-
-[01 - Desde el origen hasta 1814.](/02-Historia/01-Desde-el-origen-hasta-1814)
-
-[02 - Desde 1814 hasta 1870.](/02-Historia/02-Desde-1814-hasta-1870)
-
-[03 - Desde 1870 hasta la actualidad.](/02-Historia/03-Desde-1870-hasta-la-actualidad)
+[03 - Departamentos de la provincia.](Contenido//01-Efemerides/03-Departamentos-de-la-provincia)
 
 
-## [Geografia:](03-Geografia)
+## [Historia:](Contenido/02-Historia)
 
-[01 - Geomorfologia.](03-Geografia/01-geomorfologia) 
+[01 - Desde el origen hasta 1814.](Contenido/02-Historia/01-Desde-el-origen-hasta-1814)
 
-[02 - Geomorfologia de corrientes const.](03-Geografia/02-geomorfologia-de-corrientes-const) 
+[02 - Desde 1814 hasta 1870.](Contenido/02-Historia/02-Desde-1814-hasta-1870)
 
-[03 - Mapa litoestratigrafico de la provincia.](03-Geografia/03-mapa-lito-estratigrafico-de-la-provi) 
+[03 - Desde 1870 hasta la actualidad.](Contenido/02-Historia/03-Desde-1870-hasta-la-actualidad)
 
-[04 - Climatología e hidrología.](03-Geografia/04-climatologia-hidrologia) 
 
-[05 - Hidrografía de Corrientes.](03-Geografia/05-hidrografia-de-corrientes) 
+## [Geografia:](Contenido/03-Geografia)
 
-[06 - Fitogeografía (primera parte).](03-Geografia/06-fitogeografia) 
+[01 - Geomorfologia.](Contenido/03-Geografia/01-geomorfologia) 
 
-[07 - Fitogeografía (segunda parte).](03-Geografia/07-fitogeografia-segunda-parte) 
+[02 - Geomorfologia de corrientes const.](Contenido/03-Geografia/02-geomorfologia-de-corrientes-const) 
 
-[08 - Zoogeografía (primera parte).](03-Geografia/08-zoogeografia-primera-parte) 
+[03 - Mapa litoestratigrafico de la provincia.](Contenido/03-Geografia/03-mapa-lito-estratigrafico-de-la-provi) 
 
-[09 - Zoogeografía (segunda parte).](03-Geografia/09-zoogeografia-segunda-parte-pece) 
+[04 - Climatología e hidrología.](Contenido/03-Geografia/04-climatologia-hidrologia) 
 
-[10 - Geografía politica (primera parte).](03-Geografia/10-geografia-politica-primera-parte) 
+[05 - Hidrografía de Corrientes.](Contenido/03-Geografia/05-hidrografia-de-corrientes) 
 
-[11 - Geografía politica (segunda parte).](03-Geografia/11-geografia-politica-segunda-parte) 
+[06 - Fitogeografía (primera parte).](Contenido/03-Geografia/06-fitogeografia) 
 
-[12 - Geografía politica (tercera parte).](03-Geografia/12-geografia-politica-tercera-parte) 
+[07 - Fitogeografía (segunda parte).](Contenido/03-Geografia/07-fitogeografia-segunda-parte) 
 
-[13 - Geografía social.](03-Geografia/13-geografia-social-geografia-de-las) 
+[08 - Zoogeografía (primera parte).](Contenido/03-Geografia/08-zoogeografia-primera-parte) 
 
-[14 - Geografía económica.](03-Geografia/14-geografia-economica-rasgos-genera) 
+[09 - Zoogeografía (segunda parte).](Contenido/03-Geografia/09-zoogeografia-segunda-parte-pece) 
 
-[15 - Comercio mercado y transportes.](03-Geografia/15-comercio-mercado-y-transportes)
+[10 - Geografía politica (primera parte).](Contenido/03-Geografia/10-geografia-politica-primera-parte) 
 
-## [Cultura:](04-Cultura)
+[11 - Geografía politica (segunda parte).](Contenido/03-Geografia/11-geografia-politica-segunda-parte) 
 
-[01 - Pintura arquitectura musica.](04-Cultura/01-pintura-arquitectura-musica) 
+[12 - Geografía politica (tercera parte).](Contenido/03-Geografia/12-geografia-politica-tercera-parte) 
 
-[02 - Los antecedentes instrumentales y los músicos.](04-Cultura/02-los-antecedentes-instrumentales-y-los-musicos-ch) 
+[13 - Geografía social.](Contenido/03-Geografia/13-geografia-social-geografia-de-las) 
 
-[03 - Voces y poesia chamamecera.](04-Cultura/03-voces-y-poesia-chamamecera) 
+[14 - Geografía económica.](Contenido/03-Geografia/14-geografia-economica-rasgos-genera) 
 
-[04 - Analisis funcional de la musica chamamecera.](04-Cultura/04-analisis-funcional-de-la-musica-chamamecera) 
+[15 - Comercio mercado y transportes.](Contenido/03-Geografia/15-comercio-mercado-y-transportes)
 
-[05 - Literatura ciencia y tecnica.](04-Cultura/05-literatura-ciencia-y-tecnica) 
+## [Cultura:](Contenido/04-Cultura)
 
-[06 - Leyenda y tradicion.](04-Cultura/06-leyenda-y-tradicion) 
+[01 - Pintura arquitectura musica.](Contenido/04-Cultura/01-pintura-arquitectura-musica) 
 
-[07 - Seres metamorfoseados.](04-Cultura/07-seres-metamorfoseados)
+[02 - Los antecedentes instrumentales y los músicos.](Contenido/04-Cultura/02-los-antecedentes-instrumentales-y-los-musicos-ch) 
 
-## [Guarani:](05-Guarani)
+[03 - Voces y poesia chamamecera.](Contenido/04-Cultura/03-voces-y-poesia-chamamecera) 
 
-## [Deportes:](06-Deportes)
+[04 - Analisis funcional de la musica chamamecera.](Contenido/04-Cultura/04-analisis-funcional-de-la-musica-chamamecera) 
 
-## [Cronologias:](07-Cronologias)
+[05 - Literatura ciencia y tecnica.](Contenido/04-Cultura/05-literatura-ciencia-y-tecnica) 
 
-[01 - Reyes regimen del adelantazgo gobernadores](07-Cronologias/01-reyes-regimen-del-adelantazgo-gobernadores) 
+[06 - Leyenda y tradicion.](Contenido/04-Cultura/06-leyenda-y-tradicion) 
 
-[02 - Virreyes e intendentes](07-Cronologias/02-virreyes-e-intendentes) 
+[07 - Seres metamorfoseados.](Contenido/04-Cultura/07-seres-metamorfoseados)
 
-[03 - Tenientes subdelegados y comandantes de armas.](07-Cronologias/03-tenientes-subdelegados-y-comandantes-de-armas) 
+## [Guarani:](Contenido/05-Guarani)
 
-[04 - Funcionarios judiciales coloniales y sucesos mundiales.](07-Cronologias/04-funcionarios-judiciales-coloniales-y-sucesos-mund) 
+## [Deportes:](Contenido/06-Deportes)
 
-[05 - Nómina de autoridades eclesiasticas obispos.](07-Cronologias/05-nomina-de-autoridades-eclesiasticas-obispos-pre) 
+## [Cronologias:](Contenido/07-Cronologias)
 
-[06 - Funcionarios nacionales y senadores provinciales.](07-Cronologias/06-funcionarios-nacionales-y-senadores-provinciales) 
+[01 - Reyes regimen del adelantazgo gobernadores](Contenido/07-Cronologias/01-reyes-regimen-del-adelantazgo-gobernadores) 
 
-[07 - Diputados provinciales y convencionales constituyentes.](07-Cronologias/07-diputados-provinciales-y-convencionales-constituy) 
+[02 - Virreyes e intendentes](Contenido/07-Cronologias/02-virreyes-e-intendentes) 
 
-[08 - El poder ejecutivo de la provincia de Corrientes.](07-Cronologias/08-el-poder-ejecutivo-de-la-provincia-de-corrientes) 
+[03 - Tenientes subdelegados y comandantes de armas.](Contenido/07-Cronologias/03-tenientes-subdelegados-y-comandantes-de-armas) 
 
-[09 - Gobernadores constitucionales propietarios.](07-Cronologias/09-gobernadores-constitucionales-propietarios-obis) 
+[04 - Funcionarios judiciales coloniales y sucesos mundiales.](Contenido/07-Cronologias/04-funcionarios-judiciales-coloniales-y-sucesos-mund) 
 
-[10 - Nómina de magistrados judiciales y documentos oficiales.](07-Cronologias/10-nomina-de-magistrados-judiciales-y-documentos-of)
+[05 - Nómina de autoridades eclesiasticas obispos.](Contenido/07-Cronologias/05-nomina-de-autoridades-eclesiasticas-obispos-pre) 
 
-## [Biografias:](08-Biografias)
+[06 - Funcionarios nacionales y senadores provinciales.](Contenido/07-Cronologias/06-funcionarios-nacionales-y-senadores-provinciales) 
 
-## [Toponimia:](09-Toponimia)
+[07 - Diputados provinciales y convencionales constituyentes.](Contenido/07-Cronologias/07-diputados-provinciales-y-convencionales-constituy) 
 
-[a](a.md), 
-[b](b.md), 
-[c](c.md), 
-[d](d.md), 
-[e](e.md), 
-[f](f.md), 
-[g](g.md),
-[h](h.md), 
-[i](i.md), 
-[j](j.md), 
-[k](k.md), 
-[l](l.md), 
-[m](m.md), 
-[n](n.md), 
-[o](o.md), 
-[p](p.md), 
-[q](q.md), 
-[r](r.md), 
-[s](s.md), 
-[t](t.md), 
-[u](u.md), 
-[v](v.md), 
-[w](w.md), 
-[x](x.md), 
-[y](y.md), 
-[z](z.md).
+[08 - El poder ejecutivo de la provincia de Corrientes.](Contenido/07-Cronologias/08-el-poder-ejecutivo-de-la-provincia-de-corrientes) 
+
+[09 - Gobernadores constitucionales propietarios.](Contenido/07-Cronologias/09-gobernadores-constitucionales-propietarios-obis) 
+
+[10 - Nómina de magistrados judiciales y documentos oficiales.](Contenido/07-Cronologias/10-nomina-de-magistrados-judiciales-y-documentos-of)
+
+## [Biografias:](Contenido/08-Biografias)
+
+## [Toponimia:](Contenido/09-Toponimia)
+
+[a](Contenido/09-Toponimia/a.md), 
+[b](Contenido/09-Toponimia/b.md), 
+[c](Contenido/09-Toponimia/c.md), 
+[d](Contenido/09-Toponimia/d.md), 
+[e](Contenido/09-Toponimia/e.md), 
+[f](Contenido/09-Toponimia/f.md), 
+[g](Contenido/09-Toponimia/g.md),
+[h](Contenido/09-Toponimia/h.md), 
+[i](Contenido/09-Toponimia/i.md), 
+[j](Contenido/09-Toponimia/j.md), 
+[k](Contenido/09-Toponimia/k.md), 
+[l](Contenido/09-Toponimia/l.md), 
+[m](Contenido/09-Toponimia/m.md), 
+[n](Contenido/09-Toponimia/n.md), 
+[o](Contenido/09-Toponimia/o.md), 
+[p](Contenido/09-Toponimia/p.md), 
+[q](Contenido/09-Toponimia/q.md), 
+[r](Contenido/09-Toponimia/r.md), 
+[s](Contenido/09-Toponimia/s.md), 
+[t](Contenido/09-Toponimia/t.md), 
+[u](Contenido/09-Toponimia/u.md), 
+[v](Contenido/09-Toponimia/v.md), 
+[w](Contenido/09-Toponimia/w.md), 
+[x](Contenido/09-Toponimia/x.md), 
+[y](Contenido/09-Toponimia/y.md), 
+[z](Contenido/09-Toponimia/z.md).
