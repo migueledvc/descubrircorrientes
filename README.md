@@ -72,25 +72,25 @@ Descubrircorrientes wiki!
 
 ## [Cronologias:](07-Cronologias)
 
-[01 - Reyes regimen del adelantazgo gobernadores](07-Cronologias/01-reyes-regimen-del-adelantazgo-gobernadores0) 
+[01 - Reyes regimen del adelantazgo gobernadores](07-Cronologias/01-reyes-regimen-del-adelantazgo-gobernadores) 
 
-[02 - Virreyes e intendentes](07-Cronologias/02-virreyes-e-intendentes0) 
+[02 - Virreyes e intendentes](07-Cronologias/02-virreyes-e-intendentes) 
 
-[03 - Tenientes subdelegados y comandantes de armas.](07-Cronologias/03-tenientes-subdelegados-y-comandantes-de-armas0) 
+[03 - Tenientes subdelegados y comandantes de armas.](07-Cronologias/03-tenientes-subdelegados-y-comandantes-de-armas) 
 
-[04 - Funcionarios judiciales coloniales y sucesos mundiales.](07-Cronologias/04-funcionarios-judiciales-coloniales-y-sucesos-mund0) 
+[04 - Funcionarios judiciales coloniales y sucesos mundiales.](07-Cronologias/04-funcionarios-judiciales-coloniales-y-sucesos-mund) 
 
-[05 - Nómina de autoridades eclesiasticas obispos.](07-Cronologias/05-nomina-de-autoridades-eclesiasticas-obispos-pre0) 
+[05 - Nómina de autoridades eclesiasticas obispos.](07-Cronologias/05-nomina-de-autoridades-eclesiasticas-obispos-pre) 
 
-[06 - Funcionarios nacionales y senadores provinciales.](07-Cronologias/06-funcionarios-nacionales-y-senadores-provinciales0) 
+[06 - Funcionarios nacionales y senadores provinciales.](07-Cronologias/06-funcionarios-nacionales-y-senadores-provinciales) 
 
-[07 - Diputados provinciales y convencionales constituyentes.](07-Cronologias/07-diputados-provinciales-y-convencionales-constituy0) 
+[07 - Diputados provinciales y convencionales constituyentes.](07-Cronologias/07-diputados-provinciales-y-convencionales-constituy) 
 
-[08 - El poder ejecutivo de la provincia de Corrientes.](07-Cronologias/08-el-poder-ejecutivo-de-la-provincia-de-corrientes0) 
+[08 - El poder ejecutivo de la provincia de Corrientes.](07-Cronologias/08-el-poder-ejecutivo-de-la-provincia-de-corrientes) 
 
-[09 - Gobernadores constitucionales propietarios.](07-Cronologias/09-gobernadores-constitucionales-propietarios-obis0) 
+[09 - Gobernadores constitucionales propietarios.](07-Cronologias/09-gobernadores-constitucionales-propietarios-obis) 
 
-[10 - Nómina de magistrados judiciales y documentos oficiales.](07-Cronologias/10-nomina-de-magistrados-judiciales-y-documentos-of0)
+[10 - Nómina de magistrados judiciales y documentos oficiales.](07-Cronologias/10-nomina-de-magistrados-judiciales-y-documentos-of)
 
 ## [Biografias:](08-Biografias)
 
