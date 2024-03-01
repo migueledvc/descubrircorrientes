@@ -1,2 +1,0 @@
-Bienvenido a diccionario Guarani!
-
