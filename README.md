@@ -72,27 +72,27 @@ Descubrircorrientes wiki!
 
 ## [Deportes:](Contenido/06-Deportes)
 
-[01 - Guaraníes jugaban al fútbol cuando llegaron los jesuitas en el siglo XVII](Contenido\06-Deportes/01-Guaraníes-jugaban-al-fútbol-cuando-llegaron-los-jesuitas-en-el-siglo-XVII)
+[01 - Guaraníes jugaban al fútbol cuando llegaron los jesuitas en el siglo XVII](Contenido/06-Deportes/01-Guaraníes-jugaban-al-fútbol-cuando-llegaron-los-jesuitas-en-el-siglo-XVII)
 
-[02 - Futbol los primeros años los primeros clubes](Contenido\06-Deportes\02-Futbol-los-primeros-años-los-primeros-clubes)
+[02 - Futbol los primeros años los primeros clubes](Contenido/06-Deportes/02-Futbol-los-primeros-años-los-primeros-clubes)
 
-[03 - Los campeones de la Liga Correntina de Futbol](Contenido\06-Deportes\03-Los-campeones-de-la-Liga-Correntina-de-Futbol)
+[03 - Los campeones de la Liga Correntina de Futbol](Contenido/06-Deportes/03-Los-campeones-de-la-Liga-Correntina-de-Futbol)
 
-[04 - Club Atletico Boca Unidos](Contenido\06-Deportes\04-Club-Atletico-Boca-Unidos)
+[04 - Club Atletico Boca Unidos](Contenido/06-Deportes/04-Club-Atletico-Boca-Unidos)
 
-[05 - Argentina y los Juegos Olimpicos](Contenido\06-Deportes\05-Argentina-y-los-Juegos-Olimpicos)
+[05 - Argentina y los Juegos Olimpicos](Contenido/06-Deportes/05-Argentina-y-los-Juegos-Olimpicos)
 
-[06 - Podio correntino en las Olimpiadas](Contenido\06-Deportes\06-Podio-correntino-en-las-Olimpiadas)
+[06 - Podio correntino en las Olimpiadas](Contenido/06-Deportes/06-Podio-correntino-en-las-Olimpiadas)
 
-[07 - Reynaldo Berto Gorno](Contenido\06-Deportes\07-Reynaldo-Berto-Gorno)
+[07 - Reynaldo Berto Gorno](Contenido/06-Deportes/07-Reynaldo-Berto-Gorno)
 
-[08 - Carlos Alberto Moratorio](Contenido\06-Deportes\08-Carlos-Alberto-Moratorio)
+[08 - Carlos Alberto Moratorio](Contenido/06-Deportes/08-Carlos-Alberto-Moratorio)
 
-[09 - Carlos Mauricio Espinola](Contenido\06-Deportes\09-Carlos-Mauricio-Espinola)
+[09 - Carlos Mauricio Espinola](Contenido/06-Deportes/09-Carlos-Mauricio-Espinola)
 
-[10 - Guillermo Federico Kammerichs](Contenido\06-Deportes\10-Guillermo-Federico-Kammerichs)
+[10 - Guillermo Federico Kammerichs](Contenido/06-Deportes/10-Guillermo-Federico-Kammerichs)
 
-[11 - Sebastian Eduardo Crismanich](Contenido\06-Deportes\11-Sebastian-Eduardo-Crismanich)
+[11 - Sebastian Eduardo Crismanich](Contenido/06-Deportes/11-Sebastian-Eduardo-Crismanich)
 
 
 ## [Cronologias:](Contenido/07-Cronologias)
