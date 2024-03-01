@@ -72,7 +72,7 @@ Descubrircorrientes wiki!
 
 ## [Deportes:](Contenido/06-Deportes)
 
-[01 - Guaraníes jugaban al fútbol cuando llegaron los jesuitas en el siglo XVII](Contenido\06-Deportes\01-Guaraníes-jugaban-al-fútbol-cuando-llegaron-los-jesuitas-en-el-siglo-XVII)
+[01 - Guaraníes jugaban al fútbol cuando llegaron los jesuitas en el siglo XVII](Contenido\06-Deportes/01-Guaraníes-jugaban-al-fútbol-cuando-llegaron-los-jesuitas-en-el-siglo-XVII)
 
 [02 - Futbol los primeros años los primeros clubes](Contenido\06-Deportes\02-Futbol-los-primeros-años-los-primeros-clubes)
 
