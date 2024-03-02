@@ -97,25 +97,25 @@ Descubrircorrientes wiki!
 
 ## [Cronologias:](Contenido/07-Cronologias)
 
-[01 - Reyes regimen del adelantazgo gobernadores](Contenido/07-Cronologias/01-reyes-regimen-del-adelantazgo-gobernadores.md) 
+[01 - Reyes regimen del adelantazgo gobernadores](Contenido/07-Cronologias/01-reyes-regimen-del-adelantazgo-gobernadores) 
 
-[02 - Virreyes e intendentes](Contenido/07-Cronologias/02-virreyes-e-intendentes.md) 
+[02 - Virreyes e intendentes](Contenido/07-Cronologias/02-virreyes-e-intendentes) 
 
-[03 - Tenientes subdelegados y comandantes de armas.](Contenido/07-Cronologias/03-tenientes-subdelegados-y-comandantes-de-armas.md) 
+[03 - Tenientes subdelegados y comandantes de armas.](Contenido/07-Cronologias/03-tenientes-subdelegados-y-comandantes-de-armas) 
 
-[04 - Funcionarios judiciales coloniales y sucesos mundiales.](Contenido/07-Cronologias/04-funcionarios-judiciales-coloniales-y-sucesos-mund.md) 
+[04 - Funcionarios judiciales coloniales y sucesos mundiales.](Contenido/07-Cronologias/04-funcionarios-judiciales-coloniales-y-sucesos-mund) 
 
-[05 - Nómina de autoridades eclesiasticas obispos.](Contenido/07-Cronologias/05-nomina-de-autoridades-eclesiasticas-obispos-pre.md) 
+[05 - Nómina de autoridades eclesiasticas obispos.](Contenido/07-Cronologias/05-nomina-de-autoridades-eclesiasticas-obispos-pre) 
 
-[06 - Funcionarios nacionales y senadores provinciales.](Contenido/07-Cronologias/06-funcionarios-nacionales-y-senadores-provinciales.md) 
+[06 - Funcionarios nacionales y senadores provinciales.](Contenido/07-Cronologias/06-funcionarios-nacionales-y-senadores-provinciales) 
 
-[07 - Diputados provinciales y convencionales constituyentes.](Contenido/07-Cronologias/07-diputados-provinciales-y-convencionales-constituy.md) 
+[07 - Diputados provinciales y convencionales constituyentes.](Contenido/07-Cronologias/07-diputados-provinciales-y-convencionales-constituy) 
 
-[08 - El poder ejecutivo de la provincia de Corrientes.](Contenido/07-Cronologias/08-el-poder-ejecutivo-de-la-provincia-de-corrientes.md) 
+[08 - El poder ejecutivo de la provincia de Corrientes.](Contenido/07-Cronologias/08-el-poder-ejecutivo-de-la-provincia-de-corrientes) 
 
-[09 - Gobernadores constitucionales propietarios.](Contenido/07-Cronologias/09-gobernadores-constitucionales-propietarios-obis.md) 
+[09 - Gobernadores constitucionales propietarios.](Contenido/07-Cronologias/09-gobernadores-constitucionales-propietarios-obis) 
 
-[10 - Nómina de magistrados judiciales y documentos oficiales.](Contenido/07-Cronologias/10-nomina-de-magistrados-judiciales-y-documentos-of.md)
+[10 - Nómina de magistrados judiciales y documentos oficiales.](Contenido/07-Cronologias/10-nomina-de-magistrados-judiciales-y-documentos-of)
 
 ## [Biografias:](Contenido/08-Biografias)
 
