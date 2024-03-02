@@ -74,48 +74,48 @@ Descubrircorrientes wiki!
 
 [01 - Guaraníes jugaban al fútbol cuando llegaron los jesuitas en el siglo XVII](Contenido/06-Deportes/01-Guaranies) 
 
-[02 - Futbol los primeros años los primeros clubes](Contenido/06-Deportes/02-Futbol-los-primeros-años-los-primeros-clubes)
+[02 - Futbol los primeros años los primeros clubes](Contenido/06-Deportes/02-Futbol-los-primeros-años-los-primeros-clubes.md)
 
-[03 - Los campeones de la Liga Correntina de Futbol](Contenido/06-Deportes/03-Los-campeones-de-la-Liga-Correntina-de-Futbol)
+[03 - Los campeones de la Liga Correntina de Futbol](Contenido/06-Deportes/03-Los-campeones-de-la-Liga-Correntina-de-Futbol.md)
 
-[04 - Club Atletico Boca Unidos](Contenido/06-Deportes/04-Club-Atletico-Boca-Unidos)
+[04 - Club Atletico Boca Unidos](Contenido/06-Deportes/04-Club-Atletico-Boca-Unidos.md)
 
-[05 - Argentina y los Juegos Olimpicos](Contenido/06-Deportes/05-Argentina-y-los-Juegos-Olimpicos)
+[05 - Argentina y los Juegos Olimpicos](Contenido/06-Deportes/05-Argentina-y-los-Juegos-Olimpicos.md)
 
-[06 - Podio correntino en las Olimpiadas](Contenido/06-Deportes/06-Podio-correntino-en-las-Olimpiadas)
+[06 - Podio correntino en las Olimpiadas](Contenido/06-Deportes/06-Podio-correntino-en-las-Olimpiadas.md)
 
-[07 - Reynaldo Berto Gorno](Contenido/06-Deportes/07-Reynaldo-Berto-Gorno)
+[07 - Reynaldo Berto Gorno](Contenido/06-Deportes/07-Reynaldo-Berto-Gorno.md)
 
-[08 - Carlos Alberto Moratorio](Contenido/06-Deportes/08-Carlos-Alberto-Moratorio)
+[08 - Carlos Alberto Moratorio](Contenido/06-Deportes/08-Carlos-Alberto-Moratorio.md)
 
-[09 - Carlos Mauricio Espinola](Contenido/06-Deportes/09-Carlos-Mauricio-Espinola)
+[09 - Carlos Mauricio Espinola](Contenido/06-Deportes/09-Carlos-Mauricio-Espinola.md)
 
-[10 - Guillermo Federico Kammerichs](Contenido/06-Deportes/10-Guillermo-Federico-Kammerichs)
+[10 - Guillermo Federico Kammerichs](Contenido/06-Deportes/10-Guillermo-Federico-Kammerichs.md)
 
-[11 - Sebastian Eduardo Crismanich](Contenido/06-Deportes/11-Sebastian-Eduardo-Crismanich)
+[11 - Sebastian Eduardo Crismanich](Contenido/06-Deportes/11-Sebastian-Eduardo-Crismanich.md)
 
 
 ## [Cronologias:](Contenido/07-Cronologias)
 
-[01 - Reyes regimen del adelantazgo gobernadores](Contenido/07-Cronologias/01-reyes-regimen-del-adelantazgo-gobernadores) 
+[01 - Reyes regimen del adelantazgo gobernadores](Contenido/07-Cronologias/01-reyes-regimen-del-adelantazgo-gobernadores.md) 
 
-[02 - Virreyes e intendentes](Contenido/07-Cronologias/02-virreyes-e-intendentes) 
+[02 - Virreyes e intendentes](Contenido/07-Cronologias/02-virreyes-e-intendentes.md) 
 
-[03 - Tenientes subdelegados y comandantes de armas.](Contenido/07-Cronologias/03-tenientes-subdelegados-y-comandantes-de-armas) 
+[03 - Tenientes subdelegados y comandantes de armas.](Contenido/07-Cronologias/03-tenientes-subdelegados-y-comandantes-de-armas.md) 
 
-[04 - Funcionarios judiciales coloniales y sucesos mundiales.](Contenido/07-Cronologias/04-funcionarios-judiciales-coloniales-y-sucesos-mund) 
+[04 - Funcionarios judiciales coloniales y sucesos mundiales.](Contenido/07-Cronologias/04-funcionarios-judiciales-coloniales-y-sucesos-mund.md) 
 
-[05 - Nómina de autoridades eclesiasticas obispos.](Contenido/07-Cronologias/05-nomina-de-autoridades-eclesiasticas-obispos-pre) 
+[05 - Nómina de autoridades eclesiasticas obispos.](Contenido/07-Cronologias/05-nomina-de-autoridades-eclesiasticas-obispos-pre.md) 
 
-[06 - Funcionarios nacionales y senadores provinciales.](Contenido/07-Cronologias/06-funcionarios-nacionales-y-senadores-provinciales) 
+[06 - Funcionarios nacionales y senadores provinciales.](Contenido/07-Cronologias/06-funcionarios-nacionales-y-senadores-provinciales.md) 
 
-[07 - Diputados provinciales y convencionales constituyentes.](Contenido/07-Cronologias/07-diputados-provinciales-y-convencionales-constituy) 
+[07 - Diputados provinciales y convencionales constituyentes.](Contenido/07-Cronologias/07-diputados-provinciales-y-convencionales-constituy.md) 
 
-[08 - El poder ejecutivo de la provincia de Corrientes.](Contenido/07-Cronologias/08-el-poder-ejecutivo-de-la-provincia-de-corrientes) 
+[08 - El poder ejecutivo de la provincia de Corrientes.](Contenido/07-Cronologias/08-el-poder-ejecutivo-de-la-provincia-de-corrientes.md) 
 
-[09 - Gobernadores constitucionales propietarios.](Contenido/07-Cronologias/09-gobernadores-constitucionales-propietarios-obis) 
+[09 - Gobernadores constitucionales propietarios.](Contenido/07-Cronologias/09-gobernadores-constitucionales-propietarios-obis.md) 
 
-[10 - Nómina de magistrados judiciales y documentos oficiales.](Contenido/07-Cronologias/10-nomina-de-magistrados-judiciales-y-documentos-of)
+[10 - Nómina de magistrados judiciales y documentos oficiales.](Contenido/07-Cronologias/10-nomina-de-magistrados-judiciales-y-documentos-of.md)
 
 ## [Biografias:](Contenido/08-Biografias)
 
