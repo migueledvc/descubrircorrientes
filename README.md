@@ -70,6 +70,13 @@ Descubrircorrientes wiki!
 
 ## [Guarani:](Contenido/05-Guarani)
 
+[Clasificacion de los fonemas.](Contenido/05-Guarani/clasificacion-de-los-fonemas)
+
+[Diccionario espaol-guarani.](Contenido/05-Guarani/diccionario-espaol-guarani)
+
+[Gramatica elemental.](Contenido/05-Guarani/gramatica-elemental)
+
+
 ## [Deportes:](Contenido/06-Deportes)
 
 [01 - Guaraníes jugaban al fútbol cuando llegaron los jesuitas en el siglo XVII](Contenido/06-Deportes/01-Guaranies.md) 
