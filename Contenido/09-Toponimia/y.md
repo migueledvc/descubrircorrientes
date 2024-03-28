@@ -1,33 +1,35 @@
-Yacaré
-Yacaré Poí
-Yacareí o Yacarey
-Yacú
-Yaguá
-Yaguá Ñaró
-Yaguá Zaingó
-Yaguareté
-Yaguareté Corá
-Yaguarí
-Yahapé
-Yapepó
-Yapeyú
-Yataity Calle
-Yatay
-Yatevú
-Ybirahu
-Yegua Paso
-Yegua Retá
-Yeguas
-Yeruá
-Yohazá
-Ypané
-Y-Pucú
-Yrupé
-Yuá
-Yunque
-Yuquerí
-Yurucuá
-Yurupé
+# y
+
+[Yacaré](#Yacaré), 
+[Yacaré Poí](#Yacaré-Poí), 
+[Yacareí o Yacarey](#Yacareí-o-Yacarey), 
+[Yacú](#Yacú), 
+[Yaguá](#Yaguá), 
+[Yaguá Ñaró](#Yaguá-Ñaró), 
+[Yaguá Zaingó](#Yaguá-Zaingó), 
+[Yaguareté](#Yaguareté), 
+[Yaguareté Corá](#Yaguareté-Corá), 
+[Yaguarí](#Yaguarí), 
+[Yahapé](#Yahapé), 
+[Yapepó](#Yapepó), 
+[Yapeyú](#Yapeyú), 
+[Yataity Calle](#Yataity-Calle), 
+[Yatay](#Yatay), 
+[Yatevú](#Yatevú), 
+[Ybirahu](#Ybirahu), 
+[Yegua Paso](#Yegua-Paso), 
+[Yegua Retá](#Yegua-Retá), 
+[Yeguas](#Yeguas), 
+[Yeruá](#Yeruá), 
+[Yohazá](#Yohazá), 
+[Ypané](#Ypané), 
+[Y-Pucú](#Y-Pucú), 
+[Yrupé](#Yrupé), 
+[Yuá](#Yuá), 
+[Yunque](#Yunque), 
+[Yuquerí](#Yuquerí), 
+[Yurucuá](#Yurucuá), 
+[Yurupé](#Yurupé).
 
 
 ## Yacaré
