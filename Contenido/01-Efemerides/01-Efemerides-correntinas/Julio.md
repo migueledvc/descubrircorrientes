@@ -1,6 +1,4 @@
-## Julio
-
-Category: [Julio](http://descubrircorrientes.com.ar/2012/index.php/966-efemerides-correntinas/meses-del-ano/julio)
+# Julio
 
 **1 de Julio**
 

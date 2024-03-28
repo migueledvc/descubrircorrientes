@@ -1,6 +1,4 @@
-## Marzo
-
-Category: [Marzo](http://descubrircorrientes.com.ar/2012/index.php/909-efemerides-correntinas/meses-del-ano/marzo)
+# Marzo
 
 ##  **1 de Marzo**
 

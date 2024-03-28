@@ -1,6 +1,4 @@
-## Noviembre
-
-Category: [Noviembre](http://descubrircorrientes.com.ar/2012/index.php/1127-efemerides-correntinas/meses-del-ano/noviembre)
+# Noviembre
 
 **1 de Noviembre**
 

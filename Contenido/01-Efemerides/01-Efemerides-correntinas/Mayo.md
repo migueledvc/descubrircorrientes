@@ -1,6 +1,4 @@
-## Mayo
-
-Category: [Mayo](http://descubrircorrientes.com.ar/2012/index.php/911-efemerides-correntinas/meses-del-ano/mayo)
+# Mayo
 
 **1 de Mayo**
 

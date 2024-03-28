@@ -1,6 +1,4 @@
-## Enero
-
-Category: [Enero](http://descubrircorrientes.com.ar/2012/index.php/812-efemerides-correntinas/meses-del-ano/enero)
+# Enero
 
 ##  **1<sup>ro.</sup> de Enero**
 

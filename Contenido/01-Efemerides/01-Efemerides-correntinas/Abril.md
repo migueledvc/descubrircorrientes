@@ -1,6 +1,4 @@
-## Abril
-
-Category: [Abril](http://descubrircorrientes.com.ar/2012/index.php/910-efemerides-correntinas/meses-del-ano/abril)
+# Abril
 
 ## **1 de Abril**
 

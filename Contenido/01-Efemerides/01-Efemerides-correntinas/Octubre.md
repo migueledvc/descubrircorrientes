@@ -1,6 +1,4 @@
-## Octubre
-
-Category: [Octubre](http://descubrircorrientes.com.ar/2012/index.php/1092-efemerides-correntinas/meses-del-ano/octubre)
+# Octubre
 
 **1 de Octubre**
 

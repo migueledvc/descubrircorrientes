@@ -1,6 +1,4 @@
-## Junio
-
-Category: [Junio](http://descubrircorrientes.com.ar/2012/index.php/965-efemerides-correntinas/meses-del-ano/junio)
+# Junio
 
 **1 de Junio**
 

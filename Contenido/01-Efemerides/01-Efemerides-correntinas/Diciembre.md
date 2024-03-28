@@ -1,6 +1,4 @@
-## Diciembre
-
-Category: [Diciembre](http://descubrircorrientes.com.ar/2012/index.php/1128-efemerides-correntinas/meses-del-ano/diciembre)
+# Diciembre
 
 **1 de Diciembre**
 

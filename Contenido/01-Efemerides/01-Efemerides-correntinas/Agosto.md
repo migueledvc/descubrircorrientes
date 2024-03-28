@@ -1,6 +1,4 @@
-## Agosto
-
-Category: [Agosto](http://descubrircorrientes.com.ar/2012/index.php/1069-efemerides-correntinas/meses-del-ano/agosto)
+# Agosto
 
 **1 de Agosto**
 

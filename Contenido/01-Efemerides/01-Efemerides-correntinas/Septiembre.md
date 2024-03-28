@@ -1,6 +1,4 @@
-## Septiembre
-
-Category: [Septiembre](http://descubrircorrientes.com.ar/2012/index.php/1070-efemerides-correntinas/meses-del-ano/septiembre)
+# Septiembre
 
 **1 de Septiembre**
 

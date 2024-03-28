@@ -1,6 +1,4 @@
-## Febrero
-
-Category: [Febrero](http://descubrircorrientes.com.ar/2012/index.php/816-efemerides-correntinas/meses-del-ano/febrero)
+# Febrero
 
 ## **1 de Febrero**
 
